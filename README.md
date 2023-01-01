@@ -12,7 +12,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Contents
 
 - [Mod Managers](#mod-managers)
-- [Need For Speed Games](#need-for-speed-games)
+- [Need for Speed Games](#need-for-speed-games)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
 
 ## Mod Managers
@@ -27,7 +27,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Need for Speed Games
 
-> Everything related to Need For Speed games modding.
+> Everything related to Need for Speed games modding.
 
 - [Binary](https://github.com/NFSTools/Binary) - Tool for editing Black Box Need for Speed global files, powered by GlobalLib.
 - [ExOpts](https://github.com/orgs/ExOptsTeam/repositories) - Script mods improving game experience of Black Box Need for speed games.
