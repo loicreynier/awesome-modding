@@ -37,6 +37,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 - [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
 - [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
+- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
 - [Skyrim Guild](https://www.skyrim-guild.com) - Modding community making guides, animation and combat mods.
 - [Skyrim Special Edition Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim-special-edition) - Mod DB mods for Skyrim SE.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
