@@ -43,7 +43,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
 - [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
 - [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
-- [Enderal Special Edition](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
+- [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
 - [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 - [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
