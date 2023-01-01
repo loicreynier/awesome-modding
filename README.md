@@ -10,3 +10,11 @@ of one or more aspects of a video game, such as how it looks or behave.
 [wiki]: https://en.wikipedia.org/wiki/Video_game_modding
 
 ## Contents
+
+- [Mod Managers](#mod-managers)
+
+## Mod Managers
+
+> Mod collection management tools supporting multiple games.
+
+- [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
