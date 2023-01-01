@@ -1,3 +1,5 @@
+<!-- lint ignore awesome-git-repo-age -->
+
 # Awesome Modding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of video game modding projects and resources.
@@ -6,3 +8,5 @@
 of one or more aspects of a video game, such as how it looks or behave.
 
 [wiki]: https://en.wikipedia.org/wiki/Video_game_modding
+
+## Contents
