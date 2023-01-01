@@ -12,6 +12,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Contents
 
 - [Mod Managers](#mod-managers)
+- [Need for Speed Games](#need-for-speed-games)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
 
 ## Mod Managers
@@ -23,6 +24,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
+
+## Need for Speed Games
+
+> Everything related to Need for Speed games modding.
+
+- [Binary](https://github.com/NFSTools/Binary) - Tool for editing Black Box Need for Speed global files, powered by GlobalLib.
+- [ExOpts](https://github.com/orgs/ExOptsTeam/repositories) - Script mods improving game experience of Black Box Need for speed games.
+- [NFSCars](https://www.nfscars.net) - Website hosting mods for all NFS games.
+- [NFSMods](https://nfsmods.xyz) - Website hosting mods for all NFS games.
+- [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
 
 ## The Elder Scrolls V: Skyrim
 
