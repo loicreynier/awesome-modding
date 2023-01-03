@@ -14,6 +14,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Managers](#mod-managers)
 - [Need for Speed Games](#need-for-speed-games)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
+- [Post-processing & Shaders](#post-processing--shaders)
 
 ## Mod Managers
 
