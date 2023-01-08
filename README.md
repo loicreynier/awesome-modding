@@ -13,6 +13,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Mod Managers](#mod-managers)
 - [Need for Speed Games](#need-for-speed-games)
+- [Minecraft](#minecraft)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
 - [Post-processing & Shaders](#post-processing--shaders)
 
@@ -35,6 +36,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFSCars](https://www.nfscars.net) - Website hosting mods for all NFS games.
 - [NFSMods](https://nfsmods.xyz) - Website hosting mods for all NFS games.
 - [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
+
+## Minecraft
+
+> Everything related to Minecraft modding.
+
+- [Awesome Minecraft](https://github.com/bs-community/awesome-minecraft) - Curated list of awesome things (including mods) related to Minecraft.
+- [Awesome Modrinth](https://github.com/modrinth/awesome) - Collection of awesome open-source projects which use the Modrinth API.
+- [CurseForge](https://www.curseforge.com/minecraft/modpacks) - CurseForge mods for Minecraft.
+- [Modrinth](https://modrinth.com) - Minecraft mods build with the Modrinth API.
+- [StopModReposts](https://github.com/StopModReposts/Illegal-Mod-Sites) - List of websites that are illegally redistributing Minecraft mods.
 
 ## The Elder Scrolls V: Skyrim
 
