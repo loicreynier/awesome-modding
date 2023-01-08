@@ -12,10 +12,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Contents
 
 - [Mod Managers](#mod-managers)
+- [Post-processing & Shaders](#post-processing--shaders)
 - [Need for Speed Games](#need-for-speed-games)
 - [Minecraft](#minecraft)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
-- [Post-processing & Shaders](#post-processing--shaders)
 
 ## Mod Managers
 
@@ -26,6 +26,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
+
+## Post-processing & Shaders
+
+> Post-processing effects, graphic modification and shader injection tools.
+
+- [ENBSeries](http://enbdev.com) - 3D graphic modification for TES Skyrim, TES Oblivion, Fallout, GTA, Deus Ex, and others adding effects such as ASSAO, SSIL, Depth Of Field, Lens FX, Bloom, HDR, Tone Mapping, Sharpening, Sun Rays, Shadows, Detailed Shadows, and Reflection.
+- [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) - ENB and/plus ReShade configuration manager with support for TES Skyrim, TES Oblivion, Fallout 3, Fallout NV and The Witcher 3.
+- [GShade](https://gposers.com/gshade) - ReShade fork & utility package with numerous improvements and settings autodetection for over 300 games.
+- [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
+- [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 
 ## Need for Speed Games
 
@@ -70,13 +80,3 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
-
-## Post-processing & Shaders
-
-> Post-processing effects, graphic modification and shader injection tools.
-
-- [ENBSeries](http://enbdev.com) - 3D graphic modification for TES Skyrim, TES Oblivion, Fallout, GTA, Deus Ex, and others adding effects such as ASSAO, SSIL, Depth Of Field, Lens FX, Bloom, HDR, Tone Mapping, Sharpening, Sun Rays, Shadows, Detailed Shadows, and Reflection.
-- [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) - ENB and/plus ReShade configuration manager with support for TES Skyrim, TES Oblivion, Fallout 3, Fallout NV and The Witcher 3.
-- [GShade](https://gposers.com/gshade) - ReShade fork & utility package with numerous improvements and settings autodetection for over 300 games.
-- [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
-- [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
