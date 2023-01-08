@@ -80,3 +80,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
+
+## Other games
+
+- [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources. 
