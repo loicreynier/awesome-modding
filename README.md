@@ -62,5 +62,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [ENBSeries](http://enbdev.com) - 3D graphic modification for TES Skyrim, TES Oblivion, Fallout, GTA, Deus Ex, and others adding effects such as ASSAO, SSIL, Depth Of Field, Lens FX, Bloom, HDR, Tone Mapping, Sharpening, Sun Rays, Shadows, Detailed Shadows, and Reflection.
 - [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) - ENB and/plus ReShade configuration manager with support for TES Skyrim, TES Oblivion, Fallout 3, Fallout NV and The Witcher 3.
+- [GShade](https://gposers.com/gshade) - ReShade fork & utility package with numerous improvements and settings autodetection for over 300 games.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
