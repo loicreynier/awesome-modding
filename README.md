@@ -84,4 +84,5 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Other games
 
-- [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources. 
+- [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
+- [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
