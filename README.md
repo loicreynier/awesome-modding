@@ -16,6 +16,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Need for Speed Games](#need-for-speed-games)
 - [Minecraft](#minecraft)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
+- [Unreal Engine 4](#unreal-engine-4)
 - [Other games](#other-games)
 
 ## Mod Managers
@@ -81,6 +82,14 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
+
+## Unreal Engine 4
+
+> Tools to use and create mods for Unreal Engine 4 games.
+
+- [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) - Curated list of resources for working with Unreal Engine 4.
+- [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
+- [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
 
 ## Other games
 
