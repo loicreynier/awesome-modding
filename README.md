@@ -23,6 +23,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Mod collection management tools supporting multiple games.
 
+- [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Mod manager for PS3 and Xbox 360.
 - [Frosty Mod Manager](https://frostytoolsuite.com) - Mod manager for Frostbite engine games.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
