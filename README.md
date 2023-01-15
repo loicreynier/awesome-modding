@@ -100,3 +100,4 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
+- [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
