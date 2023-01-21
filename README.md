@@ -92,10 +92,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Tool to use and create mods for Unity games.
 
-- [Runtime Unity Editor ](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine. 
+- [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine. 
 - [ThunderKit](https://github.com/PassivePicasso/ThunderKit) - Mod project development environment for Unity and Unity games.
-- [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.)
-- [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) - Mod Manager for Unity games with suppor for 50+ games.
+- [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
+- [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) - Mod Manager for Unity games with support for 50+ games.
 
 ## Unreal Engine 4
 
