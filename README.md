@@ -16,6 +16,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Need for Speed Games](#need-for-speed-games)
 - [Minecraft](#minecraft)
 - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
+- [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Other games](#other-games)
 
