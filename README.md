@@ -46,6 +46,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Bethesda Games modding such as The Elder Scrolls and Fallout series.
 
+### Creation Kit
+
+> Everything related to use and create mods using the Creation Kit.
+
+- [ck-cmd](https://github.com/aerisarn/ck-cmd) - Command-line helper for executing some Creation Kit/Engine commands. 
+
 ### The Elder Scrolls V: Skyrim
 
 > Everything related to Skyrim modding.
