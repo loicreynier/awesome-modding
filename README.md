@@ -13,7 +13,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Mod Managers](#mod-managers)
 - [Post-processing & Shaders](#post-processing--shaders)
-- [Creation Engine / Bethesda Games](#creation-engine--besthesda-games)
+- [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
 - [Minecraft](#minecraft)
 - [Unity](#unity)
