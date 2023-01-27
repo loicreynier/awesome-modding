@@ -13,9 +13,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Mod Managers](#mod-managers)
 - [Post-processing & Shaders](#post-processing--shaders)
+- [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
 - [Minecraft](#minecraft)
-- [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Other games](#other-games)
@@ -42,6 +42,30 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 
+## Creation Engine / Bethesda Games
+
+> Everything related to Bethesda Games modding such as The Elder Scrolls and Fallout series.
+
+### The Elder Scrolls V: Skyrim
+
+> Everything related to Skyrim modding.
+
+- [Bethesda.net Skyrim Mods](https://mods.bethesda.net/en/skyrim) - Bethesda.net mods for Skyrim on all platforms (PC, Xbox One and PS4).
+- [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
+- [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
+- [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
+- [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
+- [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
+- [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
+- [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
+- [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
+- [Skyrim Guild](https://www.skyrim-guild.com) - Modding community making guides, animation and combat mods.
+- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
+- [Skyrim Special Edition Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim-special-edition) - Mod DB mods for Skyrim SE.
+- [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
+- [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
+- [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
+
 ## Need for Speed Games
 
 > Everything related to Need for Speed games modding.
@@ -67,26 +91,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [mCubed](https://github.com/4JX/mCubed) - Experimental GUI mod manager.
 - [Mod Manager](https://github.com/kaniol-lck/modmanager) - Qt-based mod manager with support for Curseforge, Modrinth, OptiFine and ReplayMod.
 - [StopModReposts](https://github.com/StopModReposts/Illegal-Mod-Sites) - List of websites that are illegally redistributing Minecraft mods.
-
-## The Elder Scrolls V: Skyrim
-
-> Everything related to Skyrim modding.
-
-- [Bethesda.net Skyrim Mods](https://mods.bethesda.net/en/skyrim) - Bethesda.net mods for Skyrim on all platforms (PC, Xbox One and PS4).
-- [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
-- [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
-- [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
-- [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
-- [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
-- [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
-- [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
-- [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
-- [Skyrim Guild](https://www.skyrim-guild.com) - Modding community making guides, animation and combat mods.
-- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
-- [Skyrim Special Edition Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim-special-edition) - Mod DB mods for Skyrim SE.
-- [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
-- [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
-- [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 
 ## Unity
 
