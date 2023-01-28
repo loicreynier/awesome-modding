@@ -1,6 +1,6 @@
 name: Check URLs
 on:
-  push:
+  # push:
   pull_request:
   schedule:
     - cron: "0 0 1 * *" # Run monthly
