@@ -42,6 +42,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [GShade](https://gposers.com/gshade) - ReShade fork & utility package with numerous improvements and settings autodetection for over 300 games.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
+- [ReShade PCGamingWIKI article](https://www.pcgamingwiki.com/wiki/ReShade) - Detailed article on ReShade providing compatibility information and fixes.
 
 ## Creation Engine / Bethesda Games
 
