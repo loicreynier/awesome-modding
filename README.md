@@ -55,6 +55,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [ck-cmd](https://github.com/aerisarn/ck-cmd) - Command-line helper for executing some Creation Kit/Engine commands. 
 
+### Load Order 
+
+> Load order manipulation tools.
+
+- [LOOT](https://loot.github.io) - Automatic Load Order Optimization Tool that checks for errors (such as incompatibilities and missing requirements) and notifies you of any issues that it detects.
+
 ### The Elder Scrolls V: Skyrim
 
 > Everything related to Skyrim modding.
