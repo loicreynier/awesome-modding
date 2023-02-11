@@ -60,6 +60,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Load order manipulation tools.
 
 - [LOOT](https://loot.github.io) - Automatic Load Order Optimization Tool that checks for errors (such as incompatibilities and missing requirements) and notifies you of any issues that it detects.
+- [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) - Program to upload and share your mod list and INI files to [modwat.ch](https://modwat.ch).
 
 ### The Elder Scrolls V: Skyrim
 
