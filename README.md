@@ -125,7 +125,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Tool to use and create mods for Unity games.
 
-- [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine. 
+- [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
 - [ThunderKit](https://github.com/PassivePicasso/ThunderKit) - Mod project development environment for Unity and Unity games.
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 - [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) - Mod Manager for Unity games with support for 50+ games.
@@ -135,6 +135,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Tools to use and create mods for Unreal Engine 4 games.
 
 - [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) - Curated list of resources for working with Unreal Engine 4.
+- [Stove](https://github.com/bananaturtlesandwich/stove) - Editor for cooked Unreal Engine 4 maps.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
 
