@@ -15,6 +15,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Post-processing & Shaders](#post-processing--shaders)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
+- [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
@@ -94,6 +95,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
 - [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
+
+## Anno 1800
+
+> Everything related to Anno 1800 modding.
+
+- [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader) - Mod loader for Anno 1800 that supports loading of unpacked RDA files, XML auto merging and DLL based mods.
+- [Anno 1800 Spice it Up Modcollection](https://anno-mods.github.io/Spice-it-Up) - A collection of over 70 mods for Anno 1800.
+- [iModYourAnno](https://github.com/anno-mods/iModYourAnno) - A WIP mod manager for Anno 1800.
+- [Jakob's Collection - Anno 1800 Mods](https://github.com/jakobharder/anno-1800-jakobs-mods) - Collection of mods providing new tiers, products, industries and more than 300 new visual assets (custom models, variations, skins).
+- [Modding Tools for Anno](https://marketplace.visualstudio.com/items?itemName=JakobHarder.anno-modding-tools) - Visual Studio Code extension with utilities to build Anno 1800 mods.
 
 ## Minecraft
 
