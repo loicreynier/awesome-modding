@@ -95,6 +95,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
 - [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
 
+## Anno 1800
+
+> Everything related to Anno 1800 modding.
+
+- [Anno 1800 Mod Loader](https://github.com/xforce/anno1800-mod-loader) - Mod loader for Anno 1800 that supports loading of unpacked RDA files, XML auto merging and DLL based mods.
+- [Anno 1800 Spice it Up Modcollection](https://anno-mods.github.io/Spice-it-Up) - A collection of over 70 mods for Anno 1800.
+- [iModYourAnno](https://github.com/anno-mods/iModYourAnno) - A WIP mod manager for Anno 1800.
+- [Jakob's Collection - Anno 1800 Mods](https://github.com/jakobharder/anno-1800-jakobs-mods) - Collection of mods providing new tiers, products, industries and more than 300 new visual assets (custom models, variations, skins).
+- [Modding Tools for Anno](https://marketplace.visualstudio.com/items?itemName=JakobHarder.anno-modding-tools) - Visual Studio Code extension with utilities to build Anno 1800 mods.
+
 ## Minecraft
 
 > Everything related to Minecraft modding.
