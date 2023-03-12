@@ -63,6 +63,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) - Program to upload and share your mod list and INI files to [modwat.ch](https://modwat.ch).
 - [Wrye Bash](https://wrye-bash.github.io) - Swiss army knife for modding Bethesda games with features including mod installation, conflict manager, load order manager and automatic merging.
 
+### Plugin/Module Editing
+
+- [xEdit](https://tes5edit.github.io) - Advanced graphical module editor and conflict detector for Bethesda games.
+
 ### The Elder Scrolls V: Skyrim
 
 > Everything related to Skyrim modding.
