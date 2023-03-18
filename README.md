@@ -59,6 +59,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Load order manipulation tools.
 
+- [Load Order Library](https://loadorderlibrary.com) - Website/tool to share mod lists of Bethesda games with list comparison and other debugging features and designed to be a replacement for Modwatch.
 - [LOOT](https://loot.github.io) - Automatic Load Order Optimization Tool that checks for errors (such as incompatibilities and missing requirements) and notifies you of any issues that it detects.
 - [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) - Program to upload and share your mod list and INI files to [modwat.ch](https://modwat.ch).
 - [Wrye Bash](https://wrye-bash.github.io) - Swiss army knife for modding Bethesda games with features including mod installation, conflict manager, load order manager and automatic merging.
