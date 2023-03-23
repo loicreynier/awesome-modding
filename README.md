@@ -27,6 +27,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > General mod hosting and browsing sites.
 
 - [Best Mods](https://bestmods.io) - Mod browser provided by the [Modding Community](https://moddingcommunity.com).
+- [CurseForge](https://www.curseforge.com) - Site hosting mods for 40+ games (mainly Minecraft, World of Warcraft and The Sims 4).
 - [Mod DB](https://www.moddb.com) - Mods and Indie Games hosting since 2002.
 - [Nexus Mods](https://www.nexusmods.com) - Site hosting 400,00+ mods for 2,100 games from 100,000 authors.
 
