@@ -150,6 +150,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Tools to use and create mods for Unreal Engine 4 games.
 
 - [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) - Curated list of resources for working with Unreal Engine 4.
+- [mod.io Unreal Engine Plugin](https://github.com/modio/modio-ue4) - Unreal Engine 4 plugin integrating [mod.io](https://https://mod.io) into your game.
 - [Stove](https://github.com/bananaturtlesandwich/stove) - Editor for cooked Unreal Engine 4 maps.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
