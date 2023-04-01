@@ -14,6 +14,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Hosting & browsing sites](#hosting--browsing-sites)
 - [Mod Managers](#mod-managers)
 - [Post-processing & Shaders](#post-processing--shaders)
+- [Call of Duty Games](#call-of-duty-games)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
 - [Anno 1800](#anno-1800)
