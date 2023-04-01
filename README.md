@@ -56,6 +56,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 - [ReShade PCGamingWIKI article](https://www.pcgamingwiki.com/wiki/ReShade) - Detailed article on ReShade providing compatibility information and fixes.
 
+## Call of Duty Games
+
+> Everything related to Call of Duty games.
+
+- [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
+
 ## Creation Engine / Bethesda Games
 
 > Everything related to Bethesda Games modding such as The Elder Scrolls and Fallout series.
