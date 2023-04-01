@@ -60,6 +60,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Call of Duty games.
 
+- [GSC](https://github.com/xensik/gsc-tool) - Utility to compile & decompile IW engine game (Call of Duty) scripts.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
 
 ## Creation Engine / Bethesda Games
