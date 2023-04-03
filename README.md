@@ -64,6 +64,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [GSC](https://github.com/xensik/gsc-tool) - Utility to compile & decompile IW engine game (Call of Duty) scripts.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
 - [TeknoGods](https://forum.teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
+- [TeknoMW3 Support Page](https://github.com/Musta1337/TeknoMW3) - English support page for the TeknoMW3 Client.
 - [X Labs](https://xlabs.dev/support_s1x_client) - Modding platform for MW1, MW2 and Advanced Warfare providing modded servers.
 
 ## Creation Engine / Bethesda Games
