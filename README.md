@@ -11,7 +11,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Contents
 
-- [Modding Communities](#modding-comunities)
+- [Modding Communities](#modding-communities)
 - [Hosting & browsing sites](#hosting--browsing-sites)
 - [Mod Managers](#mod-managers)
 - [Post-processing & Shaders](#post-processing--shaders)
