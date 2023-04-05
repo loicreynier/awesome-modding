@@ -11,6 +11,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Contents
 
+- [Modding Communities](#modding-communities)
 - [Hosting & browsing sites](#hosting--browsing-sites)
 - [Mod Managers](#mod-managers)
 - [Post-processing & Shaders](#post-processing--shaders)
@@ -22,6 +23,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Other games](#other-games)
+
+## Modding Communities
+
+> Forums and other site about modding.
+
+- [elitepvpers](https://www.elitepvpers.com) - MMO forums where you can find mods for various online games.
 
 ## Hosting & browsing sites
 
