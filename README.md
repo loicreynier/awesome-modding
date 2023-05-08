@@ -12,8 +12,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Contents
 
 - [Modding Communities](#modding-communities)
-- [Hosting & browsing sites](#hosting--browsing-sites)
+- [Hosting & browsing sites](#hosting--browsing-sites) 
 - [Mod Managers](#mod-managers)
+- [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
 - [Call of Duty Games](#call-of-duty-games)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
@@ -55,6 +56,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
 - [Wabbajack](https://www.wabbajack.org) - Automated modlist installer with [support for 30+ games](https://wiki.wabbajack.org/user_documentation/Supported%20Games%20and%20Mod%20Managers.html).
+
+## Modding Utilities
+
+> Miscellaneous modding tools.
+
+- [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
 
 ## Post-processing & Shaders
 
