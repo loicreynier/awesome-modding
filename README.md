@@ -191,3 +191,4 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
+- [Steam VPK](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
