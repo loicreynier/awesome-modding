@@ -169,6 +169,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Tool to use and create mods for Unity games.
 
+- [BepInEx](https://github.com/BepInEx/BepInEx) - Plugin / modding framework for Unity Mono, IL2CPP and .NET framework games.
 - [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
 - [ThunderKit](https://github.com/PassivePicasso/ThunderKit) - Mod project development environment for Unity and Unity games.
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
