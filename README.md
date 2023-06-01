@@ -191,6 +191,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
+- [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
