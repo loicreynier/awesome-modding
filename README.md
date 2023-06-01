@@ -193,6 +193,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
+- [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
