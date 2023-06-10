@@ -102,6 +102,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Modwat.ch](https://www.nexusmods.com/skyrim/mods/56640) - Program to upload and share your mod list and INI files to [modwat.ch](https://modwat.ch).
 - [Wrye Bash](https://wrye-bash.github.io) - Swiss army knife for modding Bethesda games with features including mod installation, conflict manager, load order manager and automatic merging.
 
+### Mesh and Textures Editing
+
+> Mesh and textures manipulation tools.
+
+[DDS Texture Scanner](https://github.com/niston/TextureScan) - Application scanning for DDS textures with abnormal dimensions.
+
 ### Plugin/Module Editing
 
 > Plugin manipulation tools.
