@@ -104,6 +104,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ### Plugin/Module Editing
 
+> Plugin manipulation tools.
+
 - [xEdit](https://tes5edit.github.io) - Advanced graphical module editor and conflict detector for Bethesda games.
 
 ### The Elder Scrolls V: Skyrim
