@@ -23,6 +23,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Minecraft](#minecraft)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
+- [Unreal Engine 3](#unreal-engine-3)
 - [Other games](#other-games)
 
 ## Modding Communities
@@ -199,9 +200,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Unreal Engine 3
 
-> Tools to use and create mods for Unreal Engine 4 games.
+> Tools to use and create mods for Unreal Engine 3 games.
 
-[UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
+- [UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
+- [TFC Installer](https://www.nexusmods.com/site/mods/588) - Tool to install texture packs created with UPK Explorer.
 
 ## Other games
 
