@@ -197,6 +197,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
 
+## Unreal Engine 3
+
+> Tools to use and create mods for Unreal Engine 4 games.
+
+[UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
+
 ## Other games
 
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
