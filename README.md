@@ -123,7 +123,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Bethesda.net Skyrim Mods](https://mods.bethesda.net/en/skyrim) - Bethesda.net mods for Skyrim on all platforms (PC, Xbox One and PS4).
 - [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
-- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending...).
+- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
 - [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
 - [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
 - [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
