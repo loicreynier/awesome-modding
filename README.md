@@ -19,6 +19,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Call of Duty Games](#call-of-duty-games)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
+- [Larian Studios Games](#larian-studios-games)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Unity](#unity)
@@ -156,6 +157,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
 - [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
 
+## Larian Studios Games
+
+> Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
+
+- [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
+
 ## Anno 1800
 
 > Everything related to Anno 1800 modding.
@@ -218,7 +225,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
-- [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
