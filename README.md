@@ -162,6 +162,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
 
 - [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
+- [Norbyte's Divinity Script Extender](https://github.com/Norbyte/ositools) - Divinity: Original Sin 2 script extender toolkit adding features to the scripting language of the game.
 
 ## Anno 1800
 
