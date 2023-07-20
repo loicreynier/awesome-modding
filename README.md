@@ -220,8 +220,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Other games
 
-- [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
+- [Add-on Box](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
+- [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
@@ -231,4 +232,3 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
-- [Add-on Box](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
