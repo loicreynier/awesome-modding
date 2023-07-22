@@ -155,7 +155,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFSMods](https://nfsmods.xyz) - Website hosting mods for all NFS games.
 - [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
-- [Project Unite](https://www.projectunite.net) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
+- [Unite](https://discord.gg/3F6vEyp) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
 
 ## Larian Studios Games
 
