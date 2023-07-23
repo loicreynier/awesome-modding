@@ -59,6 +59,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
+- [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
 - [Wabbajack](https://www.wabbajack.org) - Automated modlist installer with [support for 30+ games](https://wiki.wabbajack.org/user_documentation/Supported%20Games%20and%20Mod%20Managers.html).
 
