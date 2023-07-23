@@ -44,6 +44,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod DB](https://www.moddb.com) - Mods and Indie Games hosting since 2002.
 - [mod.io](https://mod.io/g) - Mods provided by the cross-platform mod support API mod.io.
 - [Nexus Mods](https://www.nexusmods.com) - Site hosting 400,00+ mods for 2,100 games from 100,000 authors.
+- [Thunderstore](https://thunderstore.io) - Site hosting mods for 60+ games (mainly The Risk of Rain 2).
 
 ## Mod Managers
 
