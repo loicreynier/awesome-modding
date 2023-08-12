@@ -163,6 +163,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
 
+- [BG3 Achievement Enabler](https://github.com/gottyduke/BG3_AchievementEnabler) - Native mod loader & achievement enabler for Baldur's Gate 3.
 - [BG3Cam](https://github.com/shalzuth/BG3Cam) - Baldur's Gate 3 camera mod to zoom and tilt the camera.
 - [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) - WASD Character Movement Mod for Baldur's Gate 3.
 - [LSLib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files.
