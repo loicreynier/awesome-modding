@@ -163,14 +163,28 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
 
+### File maniupulation tools
+
+> Larian Studios games file manipulation tools.
+
+- [LSLib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files.
+
+### Baldur's Gate 3
+
+> Everything related to Baldur's Gate 3 modding.
+
 - [BG3 Achievement Enabler](https://github.com/gottyduke/BG3_AchievementEnabler) - Native mod loader & achievement enabler for Baldur's Gate 3.
 - [BG3Cam](https://github.com/shalzuth/BG3Cam) - Baldur's Gate 3 camera mod to zoom and tilt the camera.
 - [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) - WASD Character Movement Mod for Baldur's Gate 3.
-- [BG3 Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
-- [BG3 Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944) - Native DLL plugin loader for Baldur's Gate 3.
-- [LSLib](https://github.com/Norbyte/lslib) - Tools for manipulating Divinity Original Sin and Baldur's Gate 3 files.
 - [LaughingLeader's Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) - Mod manager for Baldur's Gate 3.
-- [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin - Definitive Edition.
+- [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
+- [Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944) - Native DLL plugin loader for Baldur's Gate 3.
+
+### Divinity: Original Sin 2
+
+> Everything related to Divinity 2 modding.
+
+- [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin 2 - Definitive Edition.
 - [Norbyte's Divinity Script Extender](https://github.com/Norbyte/ositools) - Divinity: Original Sin 2 script extender toolkit adding features to the scripting language of the game.
 
 ## Anno 1800
