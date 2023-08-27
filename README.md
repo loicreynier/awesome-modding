@@ -114,7 +114,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Mesh and textures manipulation tools.
 
-[DDS Texture Scanner](https://github.com/niston/TextureScan) - Application scanning for DDS textures with abnormal dimensions.
+- [BodySlide and Outfit Studio](https://github.com/ousnius/BodySlide-and-Outfit-Studio) - Tool to convert, create, and customize outfits and bodies for The Elder Scrolls and Fallout.
+- [DDS Texture Scanner](https://github.com/niston/TextureScan) - Application scanning for DDS textures with abnormal dimensions.
 
 ### Plugin/Module Editing
 
