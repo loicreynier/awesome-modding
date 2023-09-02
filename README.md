@@ -123,6 +123,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Plugin manipulation tools.
 
+- [Spriggit](https://github.com/Mutagen-Modding/Spriggit) - Tool to facilitate converting Bethesda plugin files to a text based format that can be stored in Git.
 - [xEdit](https://tes5edit.github.io) - Advanced graphical module editor and conflict detector for Bethesda games.
 
 ### The Elder Scrolls V: Skyrim
