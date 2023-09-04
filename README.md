@@ -99,7 +99,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to use and create mods using the Creation Kit.
 
-- [ck-cmd](https://github.com/aerisarn/ck-cmd) - Command-line helper for executing some Creation Kit/Engine commands. 
+- [ck-cmd](https://github.com/aerisarn/ck-cmd) - Command-line helper for executing some Creation Kit/Engine commands.
+
+### Game Configuration
+
+> Configuration files manipulation tools.
+
+- [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) - GUI INI files editor with optimized presets.
 
 ### Load Order 
 
