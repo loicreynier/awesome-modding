@@ -106,6 +106,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Configuration files manipulation tools.
 
 - [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) - GUI INI files editor with optimized presets.
+- [Bethini Pie](https://www.nexusmods.com/site/mods/631) - Universal tool to make editing INI configuration files simple via a GUI, providing presets for Fallout 4 and Starfield.
 
 ### Load Order 
 
