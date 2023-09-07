@@ -168,6 +168,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ExOpts](https://github.com/orgs/ExOptsTeam/repositories) - Script mods improving game experience of Black Box Need for speed games.
 - [NFSCars](https://www.nfscars.net) - Website hosting mods for all NFS games.
 - [NFSMods](https://nfsmods.xyz) - Website hosting mods for all NFS games.
+- [NFS SPEECHTOOL](https://github.com/TheUnpunished/SpeechTool) - Speech audio files editor for NFS ProStreet, Undercover & World.
 - [NFS TMXTOOL](https://github.com/TheUnpunished/tmxtool) - TMX audio files encoder for NFS ProStreet, Undercover & World.
 - [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
