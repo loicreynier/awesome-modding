@@ -275,4 +275,5 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
-- [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games. 
+- [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
+- [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
