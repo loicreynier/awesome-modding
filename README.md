@@ -268,6 +268,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
+- [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
