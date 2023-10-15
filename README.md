@@ -25,6 +25,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
+- [Tool collections](#tool-collections)
 - [Other games](#other-games)
 
 ## Modding Communities
@@ -258,6 +259,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
 - [TFC Installer](https://www.nexusmods.com/site/mods/588) - Tool to install texture packs created with UPK Explorer.
+
+## Tool collections
+
+> Collections of tools for modding various games.
+
+- [bartlomiejduda's Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games. 
 
 ## Other games
 
