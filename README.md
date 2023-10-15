@@ -12,7 +12,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Contents
 
 - [Modding Communities](#modding-communities)
-- [Hosting & browsing sites](#hosting--browsing-sites) 
+- [Hosting & Browsing Sites](#hosting--browsing-sites) 
 - [Mod Managers](#mod-managers)
 - [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
@@ -25,7 +25,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
-- [Other games](#other-games)
+- [Other Games](#other-games)
 
 ## Modding Communities
 
@@ -34,7 +34,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr) - French mod translation communauty mainly hosting translated mods for Bethesda games.
 - [elitepvpers](https://www.elitepvpers.com) - MMO forums where you can find mods for various online games.
 
-## Hosting & browsing sites
+## Hosting & Browsing Sites
 
 > General mod hosting and browsing sites.
 
@@ -179,7 +179,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
 
-### File maniupulation tools
+### File maniupulation Tools
 
 > Larian Studios games file manipulation tools.
 
@@ -259,7 +259,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
 - [TFC Installer](https://www.nexusmods.com/site/mods/588) - Tool to install texture packs created with UPK Explorer.
 
-## Other games
+## Other Games
 
 - [Add-on Box](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
