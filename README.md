@@ -174,7 +174,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFS TMXTOOL](https://github.com/TheUnpunished/tmxtool) - TMX audio files encoder for NFS ProStreet, Undercover & World.
 - [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
-- [Unite](https://discord.gg/3F6vEyp) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
+- [Unite](https://discord.gg/sQ6Jjtnc) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
 
 ## Larian Studios Games
 
