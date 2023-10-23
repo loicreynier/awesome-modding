@@ -161,6 +161,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 
+## Starfield
+
+> Everything related to Starfield modding.
+
+- [Starfield Mod Loader](https://github.com/lVlyke/starfield-mod-loader) - Simple mod manager for Starfield that supports both Steam and Game Pass versions of the game. 
+
 ## Need for Speed Games
 
 > Everything related to Need for Speed games modding.
