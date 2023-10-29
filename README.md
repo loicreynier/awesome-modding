@@ -68,6 +68,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Miscellaneous modding tools.
 
 - [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
+- [Steam Workshop Downloader](https://steamworkshopdownloader.io) - Site helping to download files from the Steam workshop using `SteamCMD`.
 
 ## Post-processing & Shaders
 
