@@ -169,6 +169,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Starfield Nexus](https://www.nexusmods.com/starfield) - Nexus mods for Starfield.
 - [Starfield Mod Loader](https://github.com/lVlyke/starfield-mod-loader) - Simple mod manager for Starfield that supports both Steam and Game Pass versions of the game.
+- [Starfield Mod Manager](https://manapart.github.io/starfield-mod-manager-site) - CLI mod manager for Starfield for Linux.
 - [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106) - Tool adding additional scripting capabilities and functionality to the game.
 
 ## Need for Speed Games
