@@ -263,6 +263,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Stove](https://github.com/bananaturtlesandwich/stove) - Editor for cooked Unreal Engine 4 maps.
 - [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) - OfficiAl Unreal Engine assets marketplace.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
+- [Unreal ImGui](https://github.com/segross/UnrealImGui) - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) framework into Unreal Engine 4. 
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
 
 ## Unreal Engine 3
