@@ -286,6 +286,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
+- [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Outer Wilds Mods](https://outerwildsmods.com) - Outer Wilds modding community providing a framework, mods and a mod manager.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
