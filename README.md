@@ -152,6 +152,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 - [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
+- [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam. 
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 - [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
 - [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
