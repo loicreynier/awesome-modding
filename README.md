@@ -296,3 +296,4 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
+- [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
