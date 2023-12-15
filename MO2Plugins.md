@@ -6,10 +6,10 @@
 - [Lazy Modlist Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/105126) - Plugin to export modlist as a CSV with relevant information like links to the source download and plugin load order.
 - [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappin, game redirector and more).
 
-## Game Specific Plugins
+## Game Specific Plugins
 
 ## Game Extensions
 
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
 - [Undertale](https://www.nexusmods.com/site/mods/732)
-- [Pizza Tower](https://www.nexusmods.com/site/mods/683)
+- [Pizza Tower](https://www.nexusmods.com/site/mods/683)
