@@ -16,6 +16,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Managers](#mod-managers)
 - [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
+- [Upscaling & Image Enhancement](#upscaling--image-enhancement)
 - [Call of Duty Games](#call-of-duty-games)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
@@ -81,6 +82,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 - [ReShade PCGamingWIKI article](https://www.pcgamingwiki.com/wiki/ReShade) - Detailed article on ReShade providing compatibility information and fixes.
+
+## Upscaling & Image Enhancement
+
+> Everything related to upscaling and real-time image enhancement (DLSS, FSR).
+
+- [dlssg-to-fsr3](https://www.nexusmods.com/site/mods/738) - Mod to replace DLSS Frame Generation with FSR3 on NVIDIA RTX GPUs.
 
 ## Call of Duty Games
 
