@@ -87,7 +87,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to upscaling and real-time image enhancement (DLSS, FSR).
 
-- [dlssg-to-fsr3](https://www.nexusmods.com/site/mods/738) - Mod to replace DLSS Frame Generation with FSR3 on NVIDIA RTX GPUs.
+- [dlssg-to-fsr3](https://www.nexusmods.com/site/mods/738) - Mod to replace DLSS Frame Generation with FSR3 on NVIDIA RTX 20/30 GPUs.
 
 ## Call of Duty Games
 
