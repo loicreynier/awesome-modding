@@ -98,7 +98,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [H1-Mod](https://github.com/h1-mod/h1-mod) - Modification client for H1 (Modern Warfare Remastered).
 - [IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, TeknoMW3, and most Call of Duty dedicated servers.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
-- [TeknoGods](https://forum.teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
+- [TeknoGods](https://teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
 - [TeknoMW3 Support Page](https://github.com/Musta1337/TeknoMW3) - English support page for the TeknoMW3 Client.
 
 ## Creation Engine / Bethesda Games
