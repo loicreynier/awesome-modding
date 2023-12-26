@@ -21,4 +21,11 @@ jobs:
       - uses: crate-ci/typos@master
         with:
           files: ./README.md
-
+  pr-title:
+    name: Check PR title
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Slashgear/action-check-pr-title@v4.3.0
+        with:
+          regexp: "(Add|Update|Remove) .+\\/.+"
+          helpMessage: "Example: 'Add MO2'"
