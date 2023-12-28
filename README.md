@@ -160,7 +160,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Modding Guild](https://modding-guild.com) - Modding community (previously Skyrim Guild) making guides, animation and combat mods.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
-- [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 - [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
 - [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam. 
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
@@ -172,6 +171,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
+- [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 
 ### Starfield
 
