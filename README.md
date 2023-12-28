@@ -151,11 +151,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Bethesda.net Skyrim Mods](https://mods.bethesda.net/en/skyrim) - Bethesda.net mods for Skyrim on all platforms (PC, Xbox One and PS4).
 - [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
+- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
 - [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
 - [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
 - [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
 - [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
+- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Modding Guild](https://modding-guild.com) - Modding community (previously Skyrim Guild) making guides, animation and combat mods.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
@@ -170,8 +172,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
-- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
-- [MCM Helper Visualizer](https://www.nexusmods.com/skyrimspecialedition/mods/102827) - MCM Helper menus previewer (without launching the game).
 
 ### Starfield
 
