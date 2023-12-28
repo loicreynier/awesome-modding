@@ -156,6 +156,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
 - [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
 - [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
+- [Modding Guild](https://modding-guild.com) - Modding community (previously Skyrim Guild) making guides, animation and combat mods.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 - [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
@@ -163,7 +164,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 - [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
 - [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
-- [Skyrim Guild](https://www.skyrim-guild.com) - Modding community making guides, animation and combat mods.
 - [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
 - [Skyrim Special Edition Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim-special-edition) - Mod DB mods for Skyrim SE.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
