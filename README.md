@@ -171,6 +171,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
+- [MCM Helper Visualizer](https://www.nexusmods.com/skyrimspecialedition/mods/102827) - MCM Helper menus previewer (without launching the game).
 
 ### Starfield
 
