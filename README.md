@@ -175,6 +175,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Modding Utilities
 
+- [BOS INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/95679) - INI Writer Extension providing a GUI for editing BOS files.
+- [Container Item Distributor INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/100918) - INI Writer Extension providing a GUI for editing CID files.
+- [KID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/92043) - INI Writer Extension providing a GUI for editing KID files.
+- [SPID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/90427) - INI Writer Extension providing a GUI for editing SPID files.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
