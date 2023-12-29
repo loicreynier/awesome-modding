@@ -176,6 +176,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 #### Modding Utilities
 
 - [BOS INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/95679) - INI Writer Extension providing a GUI for editing BOS files.
+- [CIDER](https://www.nexusmods.com/skyrimspecialedition/mods/101028) - Program designed to centralize, check, sort and manage all the contents related to Container Item Distributor.
 - [Container Item Distributor INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/100918) - INI Writer Extension providing a GUI for editing CID files.
 - [KID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/92043) - INI Writer Extension providing a GUI for editing KID files.
 - [SPID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/90427) - INI Writer Extension providing a GUI for editing SPID files.
