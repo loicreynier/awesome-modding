@@ -181,6 +181,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [SPID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/90427) - INI Writer Extension providing a GUI for editing SPID files.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
+- [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
 
 #### Modding Guides
