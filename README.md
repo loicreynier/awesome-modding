@@ -148,29 +148,42 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Skyrim modding.
 
+#### Mod Hosting & Communities
+
 - [Bethesda.net Skyrim Mods](https://mods.bethesda.net/en/skyrim) - Bethesda.net mods for Skyrim on all platforms (PC, Xbox One and PS4).
-- [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
-- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
-- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
-- [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
 - [Enderal Nexus](https://www.nexusmods.com/enderal) - Nexus mods for Enderal based on Skyrim LE.
 - [Enderal Special Edition Nexus](https://www.nexusmods.com/enderalspecialedition) - Nexus mods for Enderal based on Skyrim SE.
-- [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
-- [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
-- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
 - [Modding Guild](https://modding-guild.com) - Modding community (previously Skyrim Guild) making guides, animation and combat mods.
-- [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
-- [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
-- [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam. 
-- [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 - [Skyrim Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim) - Mod DB mods for Skyrim LE.
 - [Skyrim Nexus](https://www.nexusmods.com/skyrim) - Nexus mods for Skyrim LE.
-- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
 - [Skyrim Special Edition Mod DB](https://www.moddb.com/games/the-elder-scrolls-v-skyrim-special-edition) - Mod DB mods for Skyrim SE.
 - [Skyrim Special Edition Nexus](https://www.nexusmods.com/skyrimspecialedition) - Nexus mods for Skyrim SE.
+
+#### Modding Projects (DLC size)
+
+- [Beyond Skyrim](https://beyondskyrim.org) - Project creating large continent expansion mods.
+- [Enderal](https://sureai.net/games/enderal) - Total conversion for TES V: Skyrim: a game modification that is set in its own world with its own landscape, lore and story.
+- [Skyblivion](https://skyblivion.com) - Project recreating The Elder Scrolls IV: Oblivion in Skyrim engine.
 - [Skyros](https://www.moddb.com/mods/skyros) - Large-scale Game of Thrones themed mod for Skyrim SE.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
+- [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
+
+#### Notable Frameworks
+
+- [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
+- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
+
+#### Modding Utilities
+
+- [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
+- [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
+
+#### Modding Guides
+
+- [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
+- [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
+- [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 
 ### Starfield
