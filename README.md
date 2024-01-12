@@ -21,7 +21,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
 - [Larian Studios Games](#larian-studios-games)
-- [REDEngine Games (CD Projekt)](#redengine-games--cd-projekt-)
+- [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Unity](#unity)
