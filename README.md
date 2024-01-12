@@ -254,12 +254,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to CD Projekt games modding.
 
-### Cyberpunk 2077 
+### Cyberpunk 2077 / REDEngine 4
 
 > Everything related to Cyberpunk 2077 modding.
 
 - [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) - Framework to script mods using Lua with access to all the internal scripting features.
 - [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
+- [WolvenKit](https://github.com/WolvenKit/WolvenKit) - REDEngine 4 file editor designed to simplify and accelerate modding workflow.
 
 ## Anno 1800
 
