@@ -21,6 +21,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
 - [Need for Speed Games](#need-for-speed-games)
 - [Larian Studios Games](#larian-studios-games)
+- [REDEngine Games (CD Projekt)](#redengine-games--cd-projekt-)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Unity](#unity)
@@ -249,6 +250,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin 2 - Definitive Edition.
 - [Norbyte's Divinity Script Extender](https://github.com/Norbyte/ositools) - Divinity: Original Sin 2 script extender toolkit adding features to the scripting language of the game.
 
+## REDEngine Games (CD Projekt)
+
+> Everything related to CD Projekt games modding.
+
+### Cyberpunk 2077 
+
+> Everything related to Cyberpunk 2077 modding.
+
+- [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
+
 ## Anno 1800
 
 > Everything related to Anno 1800 modding.
@@ -311,7 +322,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
-- [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
+
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
