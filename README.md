@@ -254,6 +254,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to CD Projekt games modding.
 
+### The Witcher 2 / REDEngine 3
+
+> Everything related to The Witcher 3 modding.
+
+- [WolvenKit (legacy)](https://github.com/WolvenKit/WolvenKit-7) - REDEngine 3 file editor designed to simplify and accelerate modding workflow.
+
 ### Cyberpunk 2077 / REDEngine 4
 
 > Everything related to Cyberpunk 2077 modding.
