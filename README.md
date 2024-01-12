@@ -258,6 +258,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Cyberpunk 2077 modding.
 
+- [Cyber Engine Tweaks](https://github.com/maximegmd/CyberEngineTweaks) - Framework to script mods using Lua with access to all the internal scripting features.
 - [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
 
 ## Anno 1800
