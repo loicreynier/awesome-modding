@@ -254,7 +254,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to CD Projekt games modding.
 
-### The Witcher 2 / REDEngine 3
+### The Witcher 3 / REDEngine 3
 
 > Everything related to The Witcher 3 modding.
 
@@ -330,7 +330,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
-
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
