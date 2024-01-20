@@ -72,6 +72,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [FOMOD Builder](https://fomod.bellcube.dev) - Web-based tool for building FOMOD installers.
 - [FOMOD Creation Tool](https://www.nexusmods.com/fallout4/mods/6821) - Graphical utility to create XML files for FOMOD installers.
+- [FOMOD Validator](https://github.com/GandaG/fomod-validator) - FOMOD installer XML file validator/linter.
 - [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
 - [pyfomod](https://github.com/GandaG/pyfomod) - High-level FOMOD library written in Python.
 - [SpecialK](https://github.com/SpecialKO/SpecialK) - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
