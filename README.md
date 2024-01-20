@@ -70,6 +70,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Miscellaneous modding tools.
 
+- [FOMOD Creation Tool](https://www.nexusmods.com/fallout4/mods/6821) - Graphical utility to create XML files for FOMOD installers.
 - [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
 - [SpecialK](https://github.com/SpecialKO/SpecialK) - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
 - [Steam Workshop Downloader](https://steamworkshopdownloader.io) - Site helping to download files from the Steam workshop using `SteamCMD`.
