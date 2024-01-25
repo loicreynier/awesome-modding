@@ -95,7 +95,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [DLSS Enabler](https://www.nexusmods.com/site/mods/757) - Mod to add DLSS Frame Generation on NVIDIA RTX 20/30 GPUs in most of the games supporting it.
 - [dlssg-to-fsr3](https://www.nexusmods.com/site/mods/738) - Mod to replace DLSS Frame Generation with FSR3 on NVIDIA RTX 20/30 GPUs.
-- [FSR2-2 to FSR3](://www.nexusmods.com/site/mods/762) - Mod to enable FSR 3 in [20+ FSR 2.2 games](https://docs.google.com/spreadsheets/d/1bGDjgkRahwNvD2XtqiHdZBRc6VB52UKsr1Qn1TmvSHo).
+- [FSR2-2 to FSR3](https://www.nexusmods.com/site/mods/762) - Mod to enable FSR 3 in [20+ FSR 2.2 games](https://docs.google.com/spreadsheets/d/1bGDjgkRahwNvD2XtqiHdZBRc6VB52UKsr1Qn1TmvSHo).
 
 ## Call of Duty Games
 
