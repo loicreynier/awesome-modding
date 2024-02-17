@@ -16,3 +16,9 @@
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
 - [Undertale](https://www.nexusmods.com/site/mods/732)
 - [Pizza Tower](https://www.nexusmods.com/site/mods/683)
+
+## Non-plugin Utilities
+
+> Scripts and tools related to MO2 but not distribute as plugins
+
+- [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
