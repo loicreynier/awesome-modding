@@ -1,5 +1,7 @@
 # Mod Organizer 2 Plugins
 
+> A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
+
 ## General Plugins
 
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
