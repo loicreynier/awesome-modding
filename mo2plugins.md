@@ -1,6 +1,15 @@
+<!-- lint ignore awesome-git-repo-age -->
+
 # Mod Organizer 2 Plugins
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
+
+## Contents
+
+- [General Plugins](#general-plugins)
+- [Game-specific Plugins](#game-specific-plugins)
+- [Game Extensions](#game-extensions)
+- [Non-plugin Utilities](#non-plugin-utilities)
 
 ## General Plugins
 
@@ -14,7 +23,7 @@
 - [Plugin Limit Checker](https://www.nexusmods.com/site/mods/789) - Plugin to check if you have too many non-light plugins loaded for Bethesda games.
 - [Profile Sync](https://kezyma.github.io/?p=profilesync) - Plugin to maintain the same mod order (while keeping the enabled/disabled state) across multiple profiles.
 - [Reinstaller](https://kezyma.github.io/?p=reinstaller) - Plugin to back up downloaded mod installers and run them on demand.
-- [Root Builder](https://kezyma.github.io/?p=rootbuilder) - Plugin to manage files (SKSE, ENB, ...) in the base game directory.
+- [Root Builder](https://kezyma.github.io/?p=rootbuilder) - Plugin to manage files (SKSE, ENB, etc.) in the base game directory.
 - [Shortcutter](https://kezyma.github.io/?p=shortcutter) - Plugin to create instance and profile specific desktop shortcuts to quickly launch apps.
 
 ## Game-specific Plugins
