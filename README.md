@@ -56,7 +56,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
-- [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC Games.
+- [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games. A curated list of MO2 plugins is provided [here][./mo2plugins].
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
