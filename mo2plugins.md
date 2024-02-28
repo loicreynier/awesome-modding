@@ -16,6 +16,7 @@
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
 - [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
+- [Install Multiple Mods](https://www.nexusmods.com/site/mods/798) - Plugin adding a button to select and install multiple mod archives.
 - [Lazy Modlist Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/105126) - Plugin to export modlist as a CSV with relevant information like links to the source download and plugin load order.
 - [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappin, game redirector and more).
 - [Mod Auto-Installer](https://www.nexusmods.com/site/mods/799) - Plugin to auto-install mods after download.
