@@ -21,6 +21,7 @@
 - [NIF Preview Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/69813) - Plugin for previewing 3D model NIF files.
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder) - Plugin to browse and install other Mod Organizer plugins.
 - [Plugin Limit Checker](https://www.nexusmods.com/site/mods/789) - Plugin to check if you have too many non-light plugins loaded for Bethesda games.
+- [Plugins List Fix](https://www.nexusmods.com/site/mods/800) - Plugin that fixes various inconsistencies between LOOT (the executable version) and MO2.
 - [Profile Sync](https://kezyma.github.io/?p=profilesync) - Plugin to maintain the same mod order (while keeping the enabled/disabled state) across multiple profiles.
 - [Reinstaller](https://kezyma.github.io/?p=reinstaller) - Plugin to back up downloaded mod installers and run them on demand.
 - [Root Builder](https://kezyma.github.io/?p=rootbuilder) - Plugin to manage files (SKSE, ENB, etc.) in the base game directory.
