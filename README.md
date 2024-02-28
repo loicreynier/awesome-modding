@@ -356,6 +356,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
+- [Star Wars Republic Commando Fix](https://github.com/SWRC-Modding/CT/releases) - Community SW Republic Commando mod patch that provides extra graphical fixes and other features for modern systems.
 - [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
