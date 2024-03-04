@@ -59,13 +59,56 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
-- [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games. A curated list of MO2 plugins is provided [here](https://github.com/loicreynier/awesome-modding/blob/main/mo2plugins.md).
+- [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games.
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [Rai Pal](https://github.com/Raicuparta/rai-pal) - Mod manager for universal mods.
 - [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
 - [Wabbajack](https://www.wabbajack.org) - Automated modlist installer with [support for 30+ games](https://wiki.wabbajack.org/user_documentation/Supported%20Games%20and%20Mod%20Managers.html).
+### Mod Organizer 2 Plugins
+
+> A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
+
+#### General Plugins
+
+- [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
+- [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
+- [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
+- [Install Multiple Mods](https://www.nexusmods.com/site/mods/798) - Plugin adding a button to select and install multiple mod archives.
+- [Lazy Modlist Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/105126) - Plugin to export modlist as a CSV with relevant information like links to the source download and plugin load order.
+- [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappin, game redirector and more).
+- [Mod Auto-Installer](https://www.nexusmods.com/site/mods/799) - Plugin to auto-install mods after download.
+- [NIF Preview Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/69813) - Plugin for previewing 3D model NIF files.
+- [Plugin Finder](https://kezyma.github.io/?p=pluginfinder) - Plugin to browse and install other Mod Organizer plugins.
+- [Plugin Limit Checker](https://www.nexusmods.com/site/mods/789) - Plugin to check if you have too many non-light plugins loaded for Bethesda games.
+- [Plugins List Fix](https://www.nexusmods.com/site/mods/800) - Plugin that fixes various inconsistencies between LOOT (the executable version) and MO2.
+- [Profile Sync](https://kezyma.github.io/?p=profilesync) - Plugin to maintain the same mod order (while keeping the enabled/disabled state) across multiple profiles.
+- [Reinstaller](https://kezyma.github.io/?p=reinstaller) - Plugin to back up downloaded mod installers and run them on demand.
+- [Root Builder](https://kezyma.github.io/?p=rootbuilder) - Plugin to manage files (SKSE, ENB, etc.) in the base game directory.
+- [Shortcutter](https://kezyma.github.io/?p=shortcutter) - Plugin to create instance and profile specific desktop shortcuts to quickly launch apps.
+
+#### Game-specific Plugins
+
+##### TES Skyrim
+
+- [Curation Club](https://kezyma.github.io/?p=curationclub) - Plugin to import Creation Club content into Mod Organizer as separate mods. 
+
+##### TES Morrowind
+
+- [OpenMW Player](https://kezyma.github.io/?p=openmwplayer) - Plugin that automatically exports your mod list, enabled plugins, and grass mods to OpenMW.
+
+#### Game Extensions
+
+- [DELTARUNE](https://www.nexusmods.com/site/mods/733)
+- [Undertale](https://www.nexusmods.com/site/mods/732)
+- [Pizza Tower](https://www.nexusmods.com/site/mods/683)
+
+#### Non-plugin Utilities
+
+> Scripts and tools related to MO2 but not distribute as plugins
+
+- [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
 
 ## Modding Utilities
 

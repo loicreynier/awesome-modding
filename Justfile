@@ -1,4 +1,4 @@
-files := "./README.md ./MO2Plugins.md"
+files := "./README.md"
 
 lint:
     -typos {{files}}
