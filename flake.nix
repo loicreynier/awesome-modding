@@ -15,6 +15,7 @@
           # Tools
           alejandra
           just
+          inlyne
 
           # Lint
           nodePackages.markdown-link-check
