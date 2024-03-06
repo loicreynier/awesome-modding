@@ -78,7 +78,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
 - [Install Multiple Mods](https://www.nexusmods.com/site/mods/798) - Plugin adding a button to select and install multiple mod archives.
 - [Lazy Modlist Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/105126) - Plugin to export modlist as a CSV with relevant information like links to the source download and plugin load order.
-- [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappin, game redirector and more).
+- [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappings, game redirector and more).
 - [Mod Auto-Installer](https://www.nexusmods.com/site/mods/799) - Plugin to auto-install mods after download.
 - [NIF Preview Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/69813) - Plugin for previewing 3D model NIF files.
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder) - Plugin to browse and install other Mod Organizer plugins.
@@ -280,7 +280,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Larian Studios games (Divinity, Baldur's Gate) modding.
 
-### File maniupulation Tools
+### File Manipulation Tools
 
 > Larian Studios games file manipulation tools.
 
@@ -354,7 +354,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Infinity Blade games modding.
 
 - [Infinity Blade Community](https://discord.gg/p29Ufvr3) - Official Infinity Blade Discord server, providing installation help and mod showcase.
-- [Infinity Blade: Modding](https://discord.gg/bfyKFh9H) - Discord server focused on the development of tools ands mods for Infinity Blade games.
+- [Infinity Blade: Modding](https://discord.gg/bfyKFh9H) - Discord server focused on the development of tools and mods for Infinity Blade games.
 - [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
 - [Infinity Blade I PC Port](https://archive.org/details/infinity-blade-pc) - Preservation port of Infinity Blade I to Windows PC.
 - [Infinity Blade I PC Port FitGirl Repack](https://fitgirl-repacks.site/infinity-blade) - Repack of Infinity Blade I PC port halving the download size.
@@ -378,10 +378,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Awesome UE4](https://github.com/terrehbyte/awesome-ue4) - Curated list of resources for working with Unreal Engine 4.
 - [mod.io Unreal Engine Plugin](https://github.com/modio/modio-ue4) - Unreal Engine 4 plugin integrating [mod.io](https://mod.io) into your game.
 - [Stove](https://github.com/bananaturtlesandwich/stove) - Editor for cooked Unreal Engine 4 maps.
-- [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) - OfficiAl Unreal Engine assets marketplace.
+- [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) - Official Unreal Engine assets marketplace.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
 - [Unreal ImGui](https://github.com/segross/UnrealImGui) - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) framework into Unreal Engine 4. 
-- [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1-4 assets.
+- [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1–4 assets.
 
 ## Unreal Engine 3
 
