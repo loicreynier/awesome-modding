@@ -24,7 +24,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
-- [Infinity Blade)(#infinity-blade)
+- [Infinity Blade](#infinity-blade)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
@@ -355,7 +355,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Infinity Blade Community](https://discord.gg/p29Ufvr3) - Official Infinity Blade Discord server, providing installation help and mod showcase.
 - [Infinity Blade: Modding](https://discord.gg/bfyKFh9H) - Discord server focused on the development of tools ands mods for Infinity Blade games.
-- [Infinity Blade: Resource](https://discord.gg/bfyKFh9H) - Discord server hosting assets from Infinity Blade games.
+- [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
 
 ## Unity
 
