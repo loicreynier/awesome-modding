@@ -24,7 +24,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
-- [Infinity Blade)(#infinty-blade)
+- [Infinity Blade)(#infinity-blade)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
