@@ -356,6 +356,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Infinity Blade Community](https://discord.gg/p29Ufvr3) - Official Infinity Blade Discord server, providing installation help and mod showcase.
 - [Infinity Blade: Modding](https://discord.gg/bfyKFh9H) - Discord server focused on the development of tools ands mods for Infinity Blade games.
 - [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
+- [Infinity Blade I PC Port](https://archive.org/details/infinity-blade-pc) - Preservation port of Infinity Blade I to Windows PC.
 
 ## Unity
 
