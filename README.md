@@ -239,7 +239,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
 - [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) - Advanced Adult Animation Framework.
 - [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) - SKSE framework plugin with model/terrain/LOD swap support and dynamic snow coverage.
-- [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/62861) - SKSE framework plugin allows mod authors and users to modify game data without the use of plugins.
+- [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) - SKSE framework plugin allows mod authors and users to modify game data without the use of plugins.
 - [Skyrim Script Extender (SKSE)](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
 - [Spell Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869) - SKSE framework plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.
 - [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815) - SKSE framework plugin which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. 
