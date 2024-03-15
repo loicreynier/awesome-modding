@@ -47,7 +47,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Forums and other site about modding.
 
-- [Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr) - French mod translation communauty mainly hosting translated mods for Bethesda games.
+- [Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr) - French mod translation community mainly hosting translated mods for Bethesda games.
 - [elitepvpers](https://www.elitepvpers.com) - MMO forums where you can find mods for various online games.
 
 <div align="right">

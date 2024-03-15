@@ -1,0 +1,9 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QConfrérie des Traducteurs - French mod translation community mainly hosting translated mods for Bethesda games.\\E$"}
+{"rule":"NUMBERS_IN_WORDS","sentence":"^\\Qr2modman - Thunderstore mod manager.\\E$"}
+{"rule":"HYPOTHESIS_TYPOGRAPHY","sentence":"^\\QH1-Mod - Modification client for H1 (Modern Warfare Remastered).\\E$"}
+{"rule":"SENTENCE_WHITESPACE","sentence":"^\\QTool - Tool for extracting ZZDATA archives from NFS console games.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAmong Us Mod Manager - Mod Manager for Among Us.\nawesome-fireemblem-modding - Curated list of awesome Fire Emblem modding resources.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThirteenAG Widescreen Fixes Pack - Widescreen Fixes for 50+ games with additional features and bug fixes.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNFS-XtendedInput - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QNFSU-XtendedInput - Xinput support plugin for Need for Speed Underground & Underground 2.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBG3WASD - WASD Character Movement Mod for Baldur's Gate 3.\\E$"}
