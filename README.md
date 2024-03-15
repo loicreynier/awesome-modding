@@ -300,11 +300,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
 - [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) - Tool to automatically find missing translations, download and create translation mods.
 
-#### Modding Guides
+#### Modding Guides & Documentation
 
 - [Animonculory Modding Resources](https://github.com/The-Animonculory/Modding-Resources) - Modding guides written for Animonculory modlists and useful for general use.
 - [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
 - [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
+- [SKSE Plugin Status](https://modding.wiki/en/skyrim/users/skse-plugins) - A list of known plugins for Skyrim Script Extender (SKSE) and the compatible game versions.
 - [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 
