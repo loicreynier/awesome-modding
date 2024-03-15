@@ -228,7 +228,20 @@ of one or more aspects of a video game, such as how it looks or behave.
 #### Notable Frameworks
 
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
-- [Skyrim Script Extender](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
+- [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486) - SKSE framework plugin that allows adding, removing, and replacing items and leveled lists to containers at runtime à la SPID.
+- [Crafting Recipe Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/52276) - SKSE framework plugin that automatically generates smelting and tempering recipes for weapons/armor/clutter.
+- [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) - SKSE framework plugin that allows mod authors to create unlimited amount of new custom skills with their own perk trees.
+- [`dargh`](https://github.com/noxsidereum/dargh) - Open source reverse-engineered port of Dynamic Animation Replacer.
+- [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799) - SKSE framework plugin to add an in-game description to misc items.
+- [Dynamic Animation Replacer (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/33746) - SKSE framework plugin that replaces animations depending on configurable conditions.
+- [Dynamic String Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/107676) - SKSE framework plugin for dynamic replacement of in-game text/strings.
+- [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728) - SKSE framework plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.
+- [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
+- [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) - Advanced Adult Animation Framework.
+- [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) - SKSE framework plugin with model/terrain/LOD swap support and dynamic snow coverage.
+- [Skyrim Script Extender (SKSE)](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
+- [Spell Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869) - SKSE framework plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.
+- [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815) - SKSE framework plugin which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. 
 
 #### Modding Utilities
 
