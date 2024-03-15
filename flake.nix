@@ -16,6 +16,7 @@
           alejandra
           just
           inlyne
+          glow
 
           # Lint
           nodePackages.markdown-link-check

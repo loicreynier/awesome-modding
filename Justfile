@@ -1,9 +1,12 @@
-files := "./README.md"
+file := "./README.md"
 
 lint:
-    -typos {{files}}
-    -awesome-lint {{files}}
-    -markdown-link-check {{files}}
+    -typos {{file}}
+    -awesome-lint {{file}}
+    -markdown-link-check {{file}}
 
 show:
-    @inlyne {{files}}
+    @inlyne {{file}}
+
+show-tui:
+    @glow --pager {{file}}
