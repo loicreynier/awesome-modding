@@ -242,6 +242,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
+- [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) - Tool to automatically find missing translations, download and create translation mods.
 
 #### Modding Guides
 
