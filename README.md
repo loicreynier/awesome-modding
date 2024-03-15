@@ -37,6 +37,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Confrérie des Traducteurs](https://www.confrerie-des-traducteurs.fr) - French mod translation communauty mainly hosting translated mods for Bethesda games.
 - [elitepvpers](https://www.elitepvpers.com) - MMO forums where you can find mods for various online games.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Hosting & Browsing Sites
 
 > General mod hosting and browsing sites.
@@ -48,6 +52,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [mod.io](https://mod.io/g) - Mods provided by the cross-platform mod support API mod.io.
 - [Nexus Mods](https://www.nexusmods.com) - Site hosting 400,00+ mods for 2,100 games from 100,000 authors.
 - [Thunderstore](https://thunderstore.io) - Site hosting mods for 60+ games (mainly The Risk of Rain 2).
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Mod Managers
 
@@ -67,6 +75,11 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
 - [Wabbajack](https://www.wabbajack.org) - Automated modlist installer with [support for 30+ games](https://wiki.wabbajack.org/user_documentation/Supported%20Games%20and%20Mod%20Managers.html).
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ### Mod Organizer 2 Plugins
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
@@ -111,6 +124,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Modding Utilities
 
 > Miscellaneous modding tools.
@@ -123,6 +140,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [SpecialK](https://github.com/SpecialKO/SpecialK) - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
 - [Steam Workshop Downloader](https://steamworkshopdownloader.io) - Site helping to download files from the Steam workshop using `SteamCMD`.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Post-processing & Shaders
 
 > Post-processing effects, graphic modification and shader injection tools.
@@ -133,6 +154,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 - [ReShade PCGamingWIKI article](https://www.pcgamingwiki.com/wiki/ReShade) - Detailed article on ReShade providing compatibility information and fixes.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Upscaling & Image Enhancement
 
@@ -155,6 +180,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
 - [TeknoGods](https://teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
 - [TeknoMW3 Support Page](https://github.com/Musta1337/TeknoMW3) - English support page for the TeknoMW3 Client.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Creation Engine / Bethesda Games
 
@@ -275,6 +304,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Starfield Mod Manager](https://manapart.github.io/starfield-mod-manager-site) - CLI mod manager for Starfield for Linux.
 - [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106) - Tool adding additional scripting capabilities and functionality to the game.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Need for Speed Games
 
 > Everything related to Need for Speed games modding.
@@ -290,6 +323,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [NFS-XtendedInput](https://github.com/xan1242/NFS-XtendedInput) - Xinput support plugin for Black Box (Most Wanted & newer) Need for Speed games.
 - [NFSU-XtendedInput](https://github.com/xan1242/NFSU-XtendedInput) - Xinput support plugin for Need for Speed Underground & Underground 2.
 - [Unite](https://discord.gg/sQ6Jjtnc) - Modding community making overhauls for NFS Heat, NFS Payback and NFS 2015.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Larian Studios Games
 
@@ -322,6 +359,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [LaughingLeader's Divinity Mod Manager](https://github.com/LaughingLeader-DOS2-Mods/DivinityModManager) - Mod manager for Divinity: Original Sin 2 - Definitive Edition.
 - [Norbyte's Divinity Script Extender](https://github.com/Norbyte/ositools) - Divinity: Original Sin 2 script extender toolkit adding features to the scripting language of the game.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## REDEngine Games (CD Projekt)
 
 > Everything related to CD Projekt games modding.
@@ -340,6 +381,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Cyber Engine Tweaks Mod Manager](https://github.com/Nats-ji/CET-Mod-Manager) - Mod manager for Cyberpunk 2077 CyberEngineTweaks based mods.
 - [WolvenKit](https://github.com/WolvenKit/WolvenKit) - REDEngine 4 file editor designed to simplify and accelerate modding workflow.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Anno 1800
 
 > Everything related to Anno 1800 modding.
@@ -349,6 +394,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [iModYourAnno](https://github.com/anno-mods/iModYourAnno) - A WIP mod manager for Anno 1800.
 - [Jakob's Collection - Anno 1800 Mods](https://github.com/jakobharder/anno-1800-jakobs-mods) - Collection of mods providing new tiers, products, industries and more than 300 new visual assets (custom models, variations, skins).
 - [Modding Tools for Anno](https://marketplace.visualstudio.com/items?itemName=JakobHarder.anno-modding-tools) - Visual Studio Code extension with utilities to build Anno 1800 mods.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Minecraft
 
@@ -364,6 +413,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Manager](https://github.com/kaniol-lck/modmanager) - Qt-based mod manager with support for Curseforge, Modrinth, OptiFine and ReplayMod.
 - [StopModReposts](https://github.com/StopModReposts/Illegal-Mod-Sites) - List of websites that are illegally redistributing Minecraft mods.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Infinity Blade
 
 > Everything related to Infinity Blade games modding.
@@ -373,6 +426,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
 - [Infinity Blade I PC Port](https://archive.org/details/infinity-blade-pc) - Preservation port of Infinity Blade I to Windows PC.
 - [Infinity Blade I PC Port FitGirl Repack](https://fitgirl-repacks.site/infinity-blade) - Repack of Infinity Blade I PC port halving the download size.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Unity
 
@@ -386,6 +443,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [UnityExplorer](https://github.com/sinai-dev/UnityExplorer) - In-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games.
 - [Unity Mod Manager](https://www.nexusmods.com/site/mods/21) - Mod Manager for Unity games with support for 50+ games.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Unreal Engine 4
 
 > Tools to use and create mods for Unreal Engine 4 games.
@@ -398,12 +459,20 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unreal ImGui](https://github.com/segross/UnrealImGui) - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) framework into Unreal Engine 4. 
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1–4 assets.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Unreal Engine 3
 
 > Tools to use and create mods for Unreal Engine 3 games.
 
 - [UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
 - [TFC Installer](https://www.nexusmods.com/site/mods/588) - Tool to install texture packs created with UPK Explorer.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
 
 ## Other Games
 
@@ -431,3 +500,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
