@@ -114,6 +114,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Reinstaller](https://kezyma.github.io/?p=reinstaller) - Plugin to back up downloaded mod installers and run them on demand.
 - [Root Builder](https://kezyma.github.io/?p=rootbuilder) - Plugin to manage files (SKSE, ENB, etc.) in the base game directory.
 - [Shortcutter](https://kezyma.github.io/?p=shortcutter) - Plugin to create instance and profile specific desktop shortcuts to quickly launch apps.
+- [Undo Move](https://www.nexusmods.com/site/mods/809) - Plugin to add Undo (<kbd>Ctrl</kbd>+<kbd>z</kbd>) and Redo actions for mod/separator or plugin changes.
 
 #### Game-specific Plugins
 
