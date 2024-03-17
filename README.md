@@ -512,8 +512,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
 - [Star Wars Republic Commando Fix](https://github.com/SWRC-Modding/CT/releases) - Community SW Republic Commando mod patch that provides extra graphical fixes and other features for modern systems.
-- [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
+- [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Tears of the Kingdom.
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
+- [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
