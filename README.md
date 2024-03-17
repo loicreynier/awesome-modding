@@ -330,6 +330,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Binary](https://github.com/NFSTools/Binary) - Tool for editing Black Box Need for Speed global files, powered by GlobalLib.
 - [ExOpts](https://github.com/orgs/ExOptsTeam/repositories) - Script mods improving game experience of Black Box Need for speed games.
 - [Icebreaker](https://github.com/R-033/icebreaker) - NIS (NFS Most Wanted cutscene files) editing tool.
+- [NFSIISE](https://github.com/zaps166/NFSIISE) - Need for Speed II cross-platform wrapper with 3D acceleration and TCP protocol.
 - [NFS.BIN.Tool](https://github.com/Ekey/NFS.BIN.Tool) - Tool for extracting ZZDATA archives from NFS console games.
 - [NFSCars](https://www.nfscars.net) - Website hosting mods for all NFS games.
 - [NFS Carbon PDFData Compiler](https://github.com/bluesky-dev12/PFDataCompiler) - Helper to convert music to NFS Carbon format.
