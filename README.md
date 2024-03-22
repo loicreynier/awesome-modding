@@ -99,6 +99,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### General Plugins
 
+> Plugins for general use of MO2 or not related to a specific game.
+
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
 - [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
@@ -118,6 +120,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Game-specific Plugins
 
+> Plugins for modding specific games with MO2.
+
 ##### TES Skyrim
 
 - [Curation Club](https://kezyma.github.io/?p=curationclub) - Plugin to import Creation Club content into Mod Organizer as separate mods. 
@@ -127,6 +131,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [OpenMW Player](https://kezyma.github.io/?p=openmwplayer) - Plugin that automatically exports your mod list, enabled plugins, and grass mods to OpenMW.
 
 #### Game Extensions
+
+> Plugin adding MO2 support for games.
 
 - [Baldur's Gate 3](https://www.nexusmods.com/site/mods/807)
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
