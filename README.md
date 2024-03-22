@@ -128,6 +128,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Game Extensions
 
+- [Baldur's Gate 3](https://www.nexusmods.com/site/mods/807)
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
 - [Undertale](https://www.nexusmods.com/site/mods/732)
 - [Pizza Tower](https://www.nexusmods.com/site/mods/683)
