@@ -79,7 +79,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Arisen Studio](https://github.com/ohhsodead/arisen-studio) - Mod manager for PS3 and Xbox 360.
 - [Continuum Mod Manager](https://github.com/dasorik/continuum-mod-manager) - Game agnostic mod manager currently supporting LEGO Batman 2 DC Super Heroes & Disney Infinity 3.0.
 - [dmodman](https://github.com/dandels/dmodman) - Linux TUI mod downloader & update checker for Nexus Mods.
-- [Fluffy's Mod Manager](https://github.com/fluffy-mods/ModManager/tree/1.4) - Mod manager for Steam Workshop.
+- [Fluffy's Steam Mod Manager](https://github.com/fluffy-mods/ModManager/tree/1.4) - Mod manager for Steam Workshop.
+- [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) - Mod manager for various RE engine (Resident Evil, Dragon's Dogma, Uncharted 4, etc) games.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
