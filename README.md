@@ -41,6 +41,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
+- [PS2 Games](#ps2-games)
 - [Other Games](#other-games)
 
 ## Modding Communities
@@ -494,6 +495,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [UPK Explorer](https://www.nexusmods.com/site/mods/587) - Universal tools for Unreal Engine 3 games for extracting textures, creating textures packs for TFC Installer and editing packages.
 - [TFC Installer](https://www.nexusmods.com/site/mods/588) - Tool to install texture packs created with UPK Explorer.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
+## PS2 Games
+
+> Everything related to PlayStation 2 game modding.
+
+- [Chaos Compiler Collection](https://github.com/chaoticgd/ccc) - A set of tools for reverse engineering PS2 games with `.mdebug` symbols.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
