@@ -450,9 +450,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Infinity Blade games modding.
 
-- [Infinity Blade Community](https://discord.gg/p29Ufvr3) - Official Infinity Blade Discord server, providing installation help and mod showcase.
-- [Infinity Blade: Modding](https://discord.gg/bfyKFh9H) - Discord server focused on the development of tools and mods for Infinity Blade games.
-- [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
+- [Infinity Blade Community](https://discord.gg/yckgyUABwe) - Official Infinity Blade Discord server, providing installation help and mod showcase.
+- [Infinity Blade: Modding](https://discord.gg/tsXzVefjFF) - Discord server focused on the development of tools and mods for Infinity Blade games.
+- [Infinity Blade: Resource](https://discord.gg/PGUhrFh8Kv) - Discord server hosting assets from Infinity Blade games.
 - [Infinity Blade I PC Port](https://archive.org/details/infinity-blade-pc) - Preservation port of Infinity Blade I to Windows PC.
 - [Infinity Blade I PC Port FitGirl Repack](https://fitgirl-repacks.site/infinity-blade) - Repack of Infinity Blade I PC port halving the download size.
 - [Infinity Blade III Save Editor](https://github.com/G40styBoy/Infinity-Blade-3-Save-Editor) - Save editor focused on making edits on Unencrypted saves easy and accessible.
