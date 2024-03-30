@@ -455,6 +455,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Infinity Blade: Resource](https://discord.gg/dv26tSvksh) - Discord server hosting assets from Infinity Blade games.
 - [Infinity Blade I PC Port](https://archive.org/details/infinity-blade-pc) - Preservation port of Infinity Blade I to Windows PC.
 - [Infinity Blade I PC Port FitGirl Repack](https://fitgirl-repacks.site/infinity-blade) - Repack of Infinity Blade I PC port halving the download size.
+- [Infinity Blade III Save Editor](https://github.com/G40styBoy/Infinity-Blade-3-Save-Editor) - Save editor focused on making edits on Unencrypted saves easy and accessible.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
