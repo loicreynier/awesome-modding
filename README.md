@@ -101,7 +101,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
 
-#### Documenation
+#### Documentation
 
 > Documentation to write MO2 Plugins.
 
