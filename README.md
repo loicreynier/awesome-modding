@@ -101,6 +101,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
 
+#### Documenation
+
+> Documentation to write MO2 Plugins.
+
+- [MO2 Python Plugin API's Documentation](https://www.modorganizer.org/python-plugins-doc/index.html) - Documentation (and examples) to write MO2 Plugins in Python.
+
 #### General Plugins
 
 > Plugins for general use of MO2 or not related to a specific game.
