@@ -250,6 +250,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [BAE](https://www.nexusmods.com/starfield/mods/165) - Bethesda Archive Extractor application.
 - [BSA Browser](https://github.com/AlexxEG/BSA_Browser) - Bethesda Archive (BSA and BA2) browser & extractor application.
 - [BodySlide and Outfit Studio](https://github.com/ousnius/BodySlide-and-Outfit-Studio) - Tool to convert, create, and customize outfits and bodies for The Elder Scrolls and Fallout.
+- [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) - Tool to automatically optimized BSAs, meshes, textures and animations.
 - [DDS Texture Converter](https://www.nexusmods.com/skyrimspecialedition/mods/111378) - Application for bulk conversion and resizing of DDS textures.
 - [DDS Texture Scanner](https://github.com/niston/TextureScan) - Application scanning for DDS textures with abnormal dimensions.
 - [hkxPoser](https://www.nexusmods.com/skyrimspecialedition/mods/11783) - `.hkx` animation file editor.
