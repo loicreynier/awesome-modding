@@ -316,6 +316,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Medic](https://github.com/Sonorous256/skyrim-mod-medic) - Toolkit to troubleshoot and audition your load order.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
+- [SMP Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/110840) - Automated tool to optimize SMP XML files (per vertex basis collision instead of triangles).
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
 - [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) - Tool to automatically find missing translations, download and create translation mods.
 
