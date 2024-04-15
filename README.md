@@ -35,6 +35,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
     - [The Witcher 3 / REDEngine 3](#the-witcher-3--redengine-3)
     - [Cyberpunk 2077 / REDEngine 4](#cyberpunk-2077--redengine-4)
+- [Star Wars Games](#star-wars-games)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Infinity Blade](#infinity-blade)
@@ -424,6 +425,16 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
+## Star Wars Games
+
+> Everything related to Star Wars games modding.
+
+- [Star Wars Republic Commando Fix](https://github.com/SWRC-Modding/CT/releases) - Community SW Republic Commando mod patch that provides extra graphical fixes and other features for modern systems.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Anno 1800
 
 > Everything related to Anno 1800 modding.
@@ -545,7 +556,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
-- [Star Wars Republic Commando Fix](https://github.com/SWRC-Modding/CT/releases) - Community SW Republic Commando mod patch that provides extra graphical fixes and other features for modern systems.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Tears of the Kingdom.
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
