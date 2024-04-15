@@ -430,6 +430,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Star Wars games modding.
 
 - [Star Wars Republic Commando Fix](https://github.com/SWRC-Modding/CT/releases) - Community SW Republic Commando mod patch that provides extra graphical fixes and other features for modern systems.
+- [WorldEdit](https://github.com/PrismaticFlower/WorldEdit) - SW Battlefront 2 (2005) WIP world editor.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
