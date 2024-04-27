@@ -297,6 +297,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [`dargh`](https://github.com/noxsidereum/dargh) - Open source reverse-engineered port of Dynamic Animation Replacer.
 - [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799) - SKSE framework plugin to add an in-game description to misc items.
 - [Dynamic Animation Replacer (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/33746) - SKSE framework plugin that replaces animations depending on configurable conditions.
+- [Dynamic Persistent Forms (DPF)](https://www.nexusmods.com/skyrimspecialedition/mods/116001) - SKSE framework plugin to create new forms when the game is already running, also these forms will be persisted both on the save game and on a cache file.
 - [Dynamic String Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/107676) - SKSE framework plugin for dynamic replacement of in-game text/strings.
 - [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728) - SKSE framework plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.
 - [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
