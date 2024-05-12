@@ -392,6 +392,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [BG3 Modding Community Wiki](https://wiki.bg3.community) - Baldur's Gate 3 modding wiki: tutorials, guides, resources and some lore.
 - [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) - WASD Character Movement Mod for Baldur's Gate 3.
 - [LaughingLeader's Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) - Mod manager for Baldur's Gate 3.
+- [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162) - BG3 in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.
 - [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
 - [Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944) - Native DLL plugin loader for Baldur's Gate 3.
 - [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se#norbytes-baldurs-gate-3-script-extender) - Baldur's Gate 3 Script Extender.
