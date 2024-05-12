@@ -389,6 +389,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [BG3 Achievement Enabler](https://github.com/gottyduke/BG3_AchievementEnabler) - Native mod loader & achievement enabler for Baldur's Gate 3.
 - [BG3Cam](https://github.com/shalzuth/BG3Cam) - Baldur's Gate 3 camera mod to zoom and tilt the camera.
+- [BG3 Modding Community Wiki](https://wiki.bg3.community) - Baldur's Gate 3 modding wiki: tutorials, guides, resources and some lore.
 - [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) - WASD Character Movement Mod for Baldur's Gate 3.
 - [LaughingLeader's Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) - Mod manager for Baldur's Gate 3.
 - [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
