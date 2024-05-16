@@ -211,9 +211,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Call of Duty games.
 
 - [AlterWare](https://alterware.dev) - Modding platform for MW2, MW3, Ghosts and Advanced Warfare with dedicated servers.
+- [Aurora Mod](https://docs.auroramod.dev) - Modification client for H1 (Modern Warfare Remastered) and IW7 (Infinite Warfare).
 - [Bot Warfare](https://www.moddb.com/mods/bot-warfare) - Mod to add bots to matches for CoD4, WaW, MW2, MW3 and BO1.
 - [GSC](https://github.com/xensik/gsc-tool) - Utility to compile & decompile IW engine game (Call of Duty) scripts.
-- [H1-Mod](https://github.com/h1-mod/h1-mod) - Modification client for H1 (Modern Warfare Remastered).
 - [IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, TeknoMW3, and most Call of Duty dedicated servers.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
 - [TeknoGods](https://teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
