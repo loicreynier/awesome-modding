@@ -322,6 +322,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [KID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/92043) - INI Writer Extension providing a GUI for editing KID files.
 - [SPID INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/90427) - INI Writer Extension providing a GUI for editing SPID files.
 - [DAR to OAR Converter](https://www.nexusmods.com/skyrimspecialedition/mods/93359) - DAR to OAR mod structure converter.
+- [MCO to BFCO Converter](https://www.nexusmods.com/skyrimspecialedition/mods/119926) - Tool to convert MCO animation files to BFCO animation files.
 - [Mod Medic](https://github.com/Sonorous256/skyrim-mod-medic) - Toolkit to troubleshoot and audition your load order.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
 - [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
