@@ -295,6 +295,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Notable Frameworks
 
+- [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) - Modern combat animations framework including melee/range weapons, allowing for jumping/swimming/charge attacks. 
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
 - [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486) - SKSE framework plugin that allows adding, removing, and replacing items and leveled lists to containers at runtime à la SPID.
 - [Crafting Recipe Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/52276) - SKSE framework plugin that automatically generates smelting and tempering recipes for weapons/armor/clutter.
