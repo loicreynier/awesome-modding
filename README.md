@@ -502,6 +502,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Tool to use and create mods for Unity games.
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) - Plugin / modding framework for Unity Mono, IL2CPP and .NET framework games.
+- [BepInNode](https://www.nexusmods.com/site/mods/926) - Visual scripting node editor to make BepInNex plugins.
 - [Enhanced BepInEx Configuration Manager](https://www.nexusmods.com/site/mods/529) - Enhanced, customizable version of the BepInEx Configuration Manager, made to work with more games and be more user-friendly.
 - [MelonLoader](https://melonwiki.xyz) - Universal mod loader for games built in the Unity Engine.
 - [Runtime Unity Editor](https://github.com/ManlyMarco/RuntimeUnityEditor) - In-game inspector and debugging tools for applications made with Unity3D game engine.
