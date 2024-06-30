@@ -557,6 +557,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
+- [Burnout Modding Wiki](https://burnout.wiki/wiki/Modding) - List of tools, tutorials and resource for modding Burnout 3, Legends, Revenge, and Dominator. 
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
