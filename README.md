@@ -574,6 +574,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
+- [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Tears of the Kingdom.
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
