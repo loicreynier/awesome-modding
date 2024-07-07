@@ -1,4 +1,4 @@
-<!-- lint ignore awesome-git-repo-age -->
+<²<!-- lint ignore awesome-git-repo-age -->
 
 # Awesome Modding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -53,6 +53,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [elitepvpers](https://www.elitepvpers.com) - MMO forums where you can find mods for various online games.
 - [HDR Den](https://discord.com/invite/kaP6cevreN) - HDR focused Discord server with modding discussions.
 - [Modder Base](http://modderbase.com) - Fighting game modding platform created by modders for modders.
+- [ResHax Forums](https://reshax.com) - Game reverse engineering and modding forums.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
