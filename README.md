@@ -556,6 +556,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Add-on Box](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
 - [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
+- [Bartłomiej Duda's Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [Burnout Modding Wiki](https://burnout.wiki/wiki/Modding) - List of tools, tutorials and resource for modding Burnout 3, Legends, Revenge, and Dominator. 
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
@@ -578,7 +579,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
 - [U-King Mod Manager](https://nicenenerd.github.io/UKMM) - Mod manager for Zelda Breath of the Wild (ground-up replacement for BCML written in Rust).
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
-- [Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
