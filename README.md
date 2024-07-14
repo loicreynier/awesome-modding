@@ -1,4 +1,4 @@
-<²<!-- lint ignore awesome-git-repo-age -->
+<!-- lint ignore awesome-git-repo-age -->
 
 # Awesome Modding [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
