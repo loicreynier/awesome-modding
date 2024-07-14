@@ -178,6 +178,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [pyfomod](https://github.com/GandaG/pyfomod) - High-level FOMOD library written in Python.
 - [SpecialK](https://github.com/SpecialKO/SpecialK) - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
 - [Steam Workshop Downloader](https://steamworkshopdownloader.io) - Site helping to download files from the Steam workshop using `SteamCMD`.
+- [WorkshopDL](https://github.com/imwaitingnow/WorkshopDL) - Standalone Steam workshop GUI downloader.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
