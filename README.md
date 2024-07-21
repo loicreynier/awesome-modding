@@ -194,6 +194,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ReShade](https://reshade.me) - Generic post-processing injector for games and video software with Direct3D 9+, OpenGL and Vulkan support.
 - [ReShade Manager](https://reshademanager.com) - ReShade installation and preset manager providing presets for various games.
 - [ReShade PCGamingWIKI article](https://www.pcgamingwiki.com/wiki/ReShade) - Detailed article on ReShade providing compatibility information and fixes.
+- [Marty's Mods](https://www.martysmods.com) - Highly customizable ReShade shaders from the creator of RTGI.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
