@@ -428,6 +428,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to The Witcher 3 modding.
 
 - [WolvenKit (legacy)](https://github.com/WolvenKit/WolvenKit-7) - REDEngine 3 file editor designed to simplify and accelerate modding workflow.
+- [The Witcher 3 Mod Manager](https://www.nexusmods.com/witcher3/mods/2678) - Mod manager dedicated to The Witcher 3 for Windows and Linux.
 
 ### Cyberpunk 2077 / REDEngine 4
 
