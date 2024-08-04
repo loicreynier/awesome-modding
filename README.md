@@ -335,6 +335,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [SMP Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/110840) - Automated tool to optimize SMP XML files (per vertex basis collision instead of triangles).
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
 - [SSE Auto Translator](https://github.com/Cutleast/SSE-Auto-Translator) - Tool to automatically find missing translations, download and create translation mods.
+- [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557) - Tool to optimize all the textures from your load order at once (in a goal to reduce VRAM usage and improve performance).
 
 #### Modding Guides & Documentation
 
