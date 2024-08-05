@@ -596,6 +596,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
 - [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
+- [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
 - [U-King Mod Manager](https://nicenenerd.github.io/UKMM) - Mod manager for Zelda Breath of the Wild (ground-up replacement for BCML written in Rust).
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
