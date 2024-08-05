@@ -586,6 +586,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [GECK::Mapper](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor.
 - [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
+- [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
