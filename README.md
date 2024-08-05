@@ -450,6 +450,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
+- [Sollumz](https://docs.sollumz.org) - GTA V modding suite for Blender.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
