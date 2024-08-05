@@ -583,6 +583,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
 - [Flat Out 2 Mod Manager](https://sech1p.ovh/projects/fo2_modmanager)
+- [GECK::Mapper](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor.
 - [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
