@@ -35,6 +35,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
     - [The Witcher 3 / REDEngine 3](#the-witcher-3--redengine-3)
     - [Cyberpunk 2077 / REDEngine 4](#cyberpunk-2077--redengine-4)
+- [RAGE Engine / Rockstar Games](#rage-engine--rockstar-games)
 - [Star Wars Games](#star-wars-games)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
@@ -445,6 +446,15 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
+## RAGE Engine / Rockstar Games
+
+- [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
+- [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Star Wars Games
 
 > Everything related to Star Wars games modding.
@@ -574,12 +584,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Flat Out 2 Mod Manager](https://sech1p.ovh/projects/fo2_modmanager)
 - [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
-- [Horsey Modder](https://www.nexusmods.com/reddeadredemption2/mods/2007) - Horse mod manager for Red Dead Redemption 2.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
 - [Outer Wilds Mods](https://outerwildsmods.com) - Outer Wilds modding community providing a framework, mods and a mod manager.
-- [RDR2 Mod Manager](https://www.nexusmods.com/reddeadredemption2/mods/86) - Mod manager for Red Dead Redemption 2.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
