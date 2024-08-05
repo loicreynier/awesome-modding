@@ -35,7 +35,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
     - [The Witcher 3 / REDEngine 3](#the-witcher-3--redengine-3)
     - [Cyberpunk 2077 / REDEngine 4](#cyberpunk-2077--redengine-4)
-- [Rage Engine / Rockstar Games](#rage-engine--rockstar-games)
+- [RAGE Engine / Rockstar Games](#rage-engine--rockstar-games)
 - [Star Wars Games](#star-wars-games)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
