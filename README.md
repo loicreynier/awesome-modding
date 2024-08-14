@@ -118,6 +118,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
+- [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/126298) - Plugin to ESLify (convert to ESL) Bethesda games plugins.
 - [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
 - [FOMOD Version Fixer](https://www.nexusmods.com/skyrimspecialedition/mods/121236) - Plugin that fixes mod versions by fetching Nexus metadata when installing FOMODs.
 - [Hidden Files Speedup](https://www.nexusmods.com/skyrimspecialedition/mods/118701) - Mod to speed up game runtime by ignoring `.mohidden` files and `.git` directories in the virtual file system.
