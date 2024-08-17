@@ -40,6 +40,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Infinity Blade](#infinity-blade)
+- [Sonic Games](#sonic-games)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
@@ -518,6 +519,18 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
+## Sonic Games
+
+> Everything related to modding Sonic games.
+
+- [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
+- [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
+- [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Unity
 
 > Tool to use and create mods for Unity games.
@@ -588,8 +601,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Flat Out 2 Mod Manager](https://sech1p.ovh/projects/fo2_modmanager)
 - [GECK::Mapper](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor.
 - [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
-- [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
-- [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
@@ -597,7 +608,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
-- [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
 - [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
 - [TR2X](https://github.com/LostArtefacts/TR2X) - Decompilation project for Tomb Raider 2 (1997), along with additional enhancements and bugfixes.
