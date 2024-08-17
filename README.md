@@ -523,6 +523,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Sonic games.
 
+- [HedgeLib](https://github.com/Radfordhound/HedgeLib) - C++ library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
 - [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
