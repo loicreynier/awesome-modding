@@ -612,6 +612,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
 - [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
 - [TR2X](https://github.com/LostArtefacts/TR2X) - Decompilation project for Tomb Raider 2 (1997), along with additional enhancements and bugfixes.
+- [Ubitunedec](https://github.com/ldeon/Ubitunedec) - Program for decoding and exporting SPK audio files found in Ubisoft game `.dat` files.
 - [U-King Mod Manager](https://nicenenerd.github.io/UKMM) - Mod manager for Zelda Breath of the Wild (ground-up replacement for BCML written in Rust).
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
