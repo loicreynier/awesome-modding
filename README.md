@@ -528,6 +528,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
 - [Sonic Adventure Mod Manager](https://github.com/X-Hax/SA-Mod-Manager) - Mod Manager for Sonic Adventure PC games.
+- [BetterSADX](https://github.com/Carlmundo/BetterSADX) - Mod pack (better graphics, full controller suppoter, etc) for Steam port of Sonic Adventure Director Cut.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
