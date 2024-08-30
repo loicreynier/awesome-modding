@@ -612,7 +612,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
 - [Outer Wilds Mods](https://outerwildsmods.com) - Outer Wilds modding community providing a framework, mods and a mod manager.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
-- [RenoDX](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, texutres and more.
+- [RenoDX](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
 - [Tears of the Kingdom Mod Manager](https://totkmods.github.io/tkmm) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
