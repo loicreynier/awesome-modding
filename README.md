@@ -14,7 +14,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Modding Communities](#modding-communities)
 - [Hosting & Browsing Sites](#hosting--browsing-sites) 
 - [Mod Managers](#mod-managers)
-    - [Mod Organizer 2 Plugins](#mod-organizer-2-plugins)
+    - [Mod Organizer 2 Plugins & Tools](#mod-organizer-2-plugins--tools)
 - [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
 - [Upscaling & Image Enhancement](#upscaling--image-enhancement)
@@ -88,8 +88,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Fluffy's Steam Mod Manager](https://github.com/fluffy-mods/ModManager/tree/1.4) - Mod manager for Steam Workshop.
 - [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) - Mod manager for various RE engine (Resident Evil, Dragon's Dogma, Uncharted 4, etc) games.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
-- [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
-- [Kezyma's Wabbajack Post-Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/1003) - Small tool to be included in Wabbajack modlists that allows for automation of some post-install steps.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games.
 - [Mod Organizer 2 - ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) - Fork (third party) of Mod Organizer 2 bringing a series of improvements and preventing common annoyances. 
@@ -105,9 +103,9 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
-### Mod Organizer 2 Plugins
+### Mod Organizer 2 Plugins & Tools 
 
-> A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins.
+> A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins and related tools.
 
 #### Documentation
 
@@ -164,8 +162,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Non-plugin Utilities
 
-> Scripts and tools related to MO2 but not distribute as plugins
+> Scripts and tools related to MO2 but not distribute as plugins.
 
+- [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
+- [Kezyma's Wabbajack Post-Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/1003) - Small tool to be included in Wabbajack modlists that allows for automation of some post-install steps.
 - [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
 
 <div align="right">
