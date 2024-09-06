@@ -103,7 +103,7 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
-### Mod Organizer 2 Plugins / Tools 
+### Mod Organizer 2 Plugins & Tools 
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins and related tools.
 
