@@ -89,6 +89,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) - Mod manager for various RE engine (Resident Evil, Dragon's Dogma, Uncharted 4, etc) games.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
+- [Kezyma's Wabbajack Post-Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/1003) - Small tool to be included in Wabbajack modlists that allows for automation of some post-install steps.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games.
 - [Mod Organizer 2 - ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) - Fork (third party) of Mod Organizer 2 bringing a series of improvements and preventing common annoyances. 
