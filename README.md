@@ -607,7 +607,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
 - [FFNx](https://github.com/julianxhokaxhiu/FFNx) - Next generation modding platform for Final Fantasy VII and Final Fantasy VIII.
-- [Flat Out 2 Mod Manager](https://sech1p.ovh/projects/fo2_modmanager)
+- [Flat Out 2 Mod Manager](https://github.com/sech1p/FlatOut2ModManager)
 - [Foundry](https://github.com/ILoveAGoodCrisp/Foundry) - Blender addon supporting asset creation for Halo Reach, Halo 4 and Halo 2 Anniversary Multiplayer.
 - [GECK::Mapper](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor.
 - [XIVLauncher Actions Status](https://github.com/goatcorp/FFXIVQuickLauncher) - Faster custom launcher for FFXIV with auto-login, fast patching, Discord rich presence and more.
