@@ -497,6 +497,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Awesome Modrinth](https://github.com/modrinth/awesome) - Collection of awesome open-source projects which use the Modrinth API.
 - [CurseForge](https://www.curseforge.com/minecraft/modpacks) - CurseForge mods for Minecraft.
 - [Ferium](https://github.com/gorilla-devs/ferium) - CLI mod manager with support for Modrinth, CurseForge, and GitHub Releases.
+- [FerrumC](https://github.com/ferrumc-rs/ferrumc) - Multithreaded reimplementation of the Minecraft server in Rust.
 - [Modrinth](https://modrinth.com) - Minecraft mods build with the Modrinth API.
 - [mcman](https://github.com/Senth/minecraft-mod-manager) - CLI Modrinth mod manager.
 - [mCubed](https://github.com/4JX/mCubed) - Experimental GUI mod manager.
