@@ -306,6 +306,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skywind](https://tesrskywind.com) - Project recreating The Elder Scrolls III: Morrowind in Skyrim SE engine.
 - [Skyrim Extended Cut](https://skyrimec.com) - Upcoming mod that overhauls the game's main storyline, adding new quests, choices, challenges and characters.
 
+#### Mod Managers
+
+- [Skyrim Linux Modder](https://github.com/AlwaysOfflineSoftware/skyrimLinuxModManager) - Linux native mod manager for Skyrim.
+
 #### Notable Frameworks
 
 - [BFCO](https://www.nexusmods.com/skyrimspecialedition/mods/117052) - Modern combat animations framework including melee/range weapons, allowing for jumping/swimming/charge attacks. 
