@@ -309,6 +309,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 #### Mod Managers
 
 - [Skyrim Linux Modder](https://github.com/AlwaysOfflineSoftware/skyrimLinuxModManager) - Linux native mod manager for Skyrim.
+- [SkyrimSE ModManager](https://www.nexusmods.com/skyrimspecialedition/mods/6317) - Simple lightweight (portable) mod manager for SkyrimSE.
 
 #### Notable Frameworks
 
