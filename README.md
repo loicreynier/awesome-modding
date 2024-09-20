@@ -215,6 +215,10 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Universal Substance Painter DDS Exporter](https://www.nexusmods.com/starfield/mods/4891) - Substance Painter export plugin to automate PNG to DNS conversion.
 - [Universal Substance Painter DDS Exporter - Praedy's Fork](https://www.nexusmods.com/site/mods/1044) - Substance Painter export plugin to automate PNG to DDS conversion, with additional features and QOL changes.
 
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Upscaling & Image Enhancement
 
 > Everything related to upscaling and real-time image enhancement (DLSS, FSR).
