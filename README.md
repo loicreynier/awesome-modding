@@ -17,6 +17,7 @@ of one or more aspects of a video game, such as how it looks or behave.
     - [Mod Organizer 2 Plugins & Tools](#mod-organizer-2-plugins--tools)
 - [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
+- [Texture Editing](#texture-editing)
 - [Upscaling & Image Enhancement](#upscaling--image-enhancement)
 - [Call of Duty Games](#call-of-duty-games)
 - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
@@ -206,6 +207,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
 </div>
+
+## Texture Editing
+
+> Everything related to editing/creating new textures.
+
+- [Universal Substance Painter DDS Exporter](https://www.nexusmods.com/starfield/mods/4891) - Substance Painter export plugin to automate PNG to DNS conversion.
+- [Universal Substance Painter DDS Exporter - Praedy's Fork](https://www.nexusmods.com/site/mods/1044) - Substance Painter export plugin to automate PNG to DDS conversion, with additional features and QOL changes.
 
 ## Upscaling & Image Enhancement
 
