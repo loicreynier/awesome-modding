@@ -330,6 +330,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492) - Community-driven advanced graphics mod (shaders, HDR, grass lightning, grass collision, parallax, water blending).
 - [Container Item Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/99486) - SKSE framework plugin that allows adding, removing, and replacing items and leveled lists to containers at runtime à la SPID.
 - [Crafting Recipe Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/52276) - SKSE framework plugin that automatically generates smelting and tempering recipes for weapons/armor/clutter.
+- [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686) - SKSE framework plugin for changing game's currency on the fly and create merchants that only accept specific currency as paiement.
 - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) - SKSE framework plugin that allows mod authors to create unlimited amount of new custom skills with their own perk trees.
 - [`dargh`](https://github.com/noxsidereum/dargh) - Open source reverse-engineered port of Dynamic Animation Replacer.
 - [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799) - SKSE framework plugin to add an in-game description to misc items.
