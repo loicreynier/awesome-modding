@@ -129,7 +129,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappings, game redirector and more).
 - [Mod Auto-Installer](https://www.nexusmods.com/site/mods/799) - Plugin to auto-install mods after download.
 - [NIF Preview Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/69813) - Plugin for previewing 3D model NIF files.
-- [PageFile Manager](https://www.nexusmods.com/skyrimspecialedition/mods/128254 ) - Plugin that automatically create or increase page file if there is unsufficient memory.
+- [PageFile Manager](https://www.nexusmods.com/skyrimspecialedition/mods/128254 ) - Plugin that automatically create or increase page file if there is insufficient memory.
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder) - Plugin to browse and install other Mod Organizer plugins.
 - [Plugin Limit Checker](https://www.nexusmods.com/site/mods/789) - Plugin to check if you have too many non-light plugins loaded for Bethesda games.
 - [Plugins List Fix](https://www.nexusmods.com/site/mods/800) - Plugin that fixes various inconsistencies between LOOT (the executable version) and MO2.
