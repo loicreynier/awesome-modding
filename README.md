@@ -91,7 +91,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games.
-- [Mod Organizer 2 - ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) - Fork (third party) of Mod Organizer 2 bringing a series of improvements and preventing common annoyances. 
+- [Mod Organizer 2 - ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) - Fork (third party) of Mod Organizer 2 bringing a series of improvements and preventing common annoyances.
+- [Mod Organizer 2 - Senjay Edition](https://www.nexusmods.com/site/mods/1050) - Fork (third party) of Mod Organizer 2 bringing a series of improvements mainly tailored for Fallout New Vegas.
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
