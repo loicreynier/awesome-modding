@@ -640,6 +640,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [RenoDX](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager) - Application handling all the steps of installing mods in Satisfactory for you.
+- [sfall](https://sfall-team.github.io/sfall) - Modification engine for Fallout 2.
 - [Tears of the Kingdom Mod Manager](https://tkmm.org) - Tool crafted to streamline modding across multiple platforms for Zelda Tears of the Kingdom.
 - [TR1X](https://github.com/LostArtefacts/TR1X) - Open source re-implementation of Tomb Raider 1 (1996), along with additional enhancements and bugfixes.
 - [TR2X](https://github.com/LostArtefacts/TR2X) - Decompilation project for Tomb Raider 2 (1997), along with additional enhancements and bugfixes.
