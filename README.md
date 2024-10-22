@@ -651,6 +651,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
+- [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
 - [Floowandereeze and Modding](https://www.nexusmods.com/yugiohmasterduel/mods/372) - Master Duel modding tool to replace any sleeve, card art, icon, home wallppaer and most field assets in the game with any image through a simple UI.
 
 <div align="right">
