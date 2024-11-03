@@ -42,6 +42,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Minecraft](#minecraft)
 - [Infinity Blade](#infinity-blade)
 - [Sonic Games](#sonic-games)
+- [Yu-Gi-Oh! Games](#yu-gi-oh-games)
 - [Unity](#unity)
 - [Unreal Engine 4](#unreal-engine-4)
 - [Unreal Engine 3](#unreal-engine-3)
@@ -561,6 +562,19 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
+## Yu-Gi-Oh! Games
+
+> Everything related to modding Yu-Gi-Oh! digital games.
+
+- [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
+- [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
+- [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
+- [Floowandereeze and Modding](https://www.nexusmods.com/yugiohmasterduel/mods/372) - Master Duel modding tool to replace any sleeve, card art, icon, home wallppaer and most field assets in the game with any image through a simple UI.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Unity
 
 > Tool to use and create mods for Unity games.
@@ -651,10 +665,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [U-King Mod Manager](https://nicenenerd.github.io/UKMM) - Mod manager for Zelda Breath of the Wild (ground-up replacement for BCML written in Rust).
 - [ThirteenAG Widescreen Fixes Pack](https://thirteenag.github.io/wfp) - Widescreen Fixes for 50+ games with additional features and bug fixes.
 - [XXL Editor](https://github.com/AdrienTD/XXL-Editor) - Level editor for Asterix XXL 1/2 and Olympic Games, original and remaster.
-- [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
-- [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
-- [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
-- [Floowandereeze and Modding](https://www.nexusmods.com/yugiohmasterduel/mods/372) - Master Duel modding tool to replace any sleeve, card art, icon, home wallppaer and most field assets in the game with any image through a simple UI.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
