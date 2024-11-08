@@ -362,6 +362,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [MCO to BFCO Converter](https://www.nexusmods.com/skyrimspecialedition/mods/119926) - Tool to convert MCO animation files to BFCO animation files.
 - [Mod Medic](https://github.com/Sonorous256/skyrim-mod-medic) - Toolkit to troubleshoot and audition your load order.
 - [Pack SKSE Mod](https://github.com/adya/pack-skse-mod) - Repository that contains workflows for building multiple variants of SKSE mods that use CMake.
+- [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133232) - Behaviour engine tool for patching Skyrim Nemesis/FNIS animation behaviour mods, with full creature support.
 - [ParallaxR](https://www.nexusmods.com/skyrimspecialedition/mods/124711) - Tool to generate parallax height maps meant to be used with Parallax Gen.
 - [Parallax Gen](https://github.com/hakasapl/ParallaxGen) - NIF dynamic patcher to enable parallax on your entire load order.
 - [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
