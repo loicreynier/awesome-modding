@@ -568,6 +568,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Yu-Gi-Oh! digital games.
 
+- [EDOPro HD Downloader](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) - Tool to download HD card images for EDOPro.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
 - [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
