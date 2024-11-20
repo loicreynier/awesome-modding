@@ -288,6 +288,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) - Tool to automatically optimized BSAs, meshes, textures and animations.
 - [DDS Texture Converter](https://www.nexusmods.com/skyrimspecialedition/mods/111378) - Application for bulk conversion and resizing of DDS textures.
 - [DDS Texture Scanner](https://github.com/niston/TextureScan) - Application scanning for DDS textures with abnormal dimensions.
+- [hkxc](https://www.nexusmods.com/skyrimspecialedition/mods/126214) - CLI too to convert between x86/x64 HKX and XML animation files. 
 - [hkxPoser](https://www.nexusmods.com/skyrimspecialedition/mods/11783) - `.hkx` animation file editor.
 
 ### Plugin/Module Editing
