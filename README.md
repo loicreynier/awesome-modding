@@ -96,7 +96,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Organizer 2 - Senjay Edition](https://www.nexusmods.com/site/mods/1050) - Fork (third party) of Mod Organizer 2 bringing a series of improvements mainly tailored for Fallout New Vegas.
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
-- [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
+- [R2ModMan](https://r2modman.com) - Thunderstore mod manager for Risk of Rain 2, Dyson Sphere Program, Valheim, GTFO, BONEWORKS, and more.
 - [Gale](https://kesomannen.com/gale) - Lightweight Thunderstore mod manager for Windows and Linux.
 - [Rai Pal](https://github.com/Raicuparta/rai-pal) - Mod manager for universal mods.
 - [Reloaded II](https://reloaded-project.github.io/Reloaded-II) - Mod manager and framework for universal mods.
