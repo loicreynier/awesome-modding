@@ -97,6 +97,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Mod Manager Migrator](https://www.nexusmods.com/site/mods/545) - Tool for migrating modding instances between various mod managers (MO2 and Vortex for now).
 - [Nexus Mod Manager CE](https://www.nexusmods.com/site/mods/305) - Community Edition evolution of the old Nexus Mod Manager with support for over 30 games and integration with Nexus Mods.
 - [r2modman](https://thunderstore.io/package/ebkr/r2modman) - Thunderstore mod manager.
+- [Gale](https://kesomannen.com/gale) - Lightweight Thunderstore mod manager for Windows and Linux.
 - [Rai Pal](https://github.com/Raicuparta/rai-pal) - Mod manager for universal mods.
 - [Reloaded II](https://reloaded-project.github.io/Reloaded-II) - Mod manager and framework for universal mods.
 - [Vortex](https://www.nexusmods.com/about/vortex) - Mod manager with built-in support for over 100 different games and seamless integration with Nexus Mods.
