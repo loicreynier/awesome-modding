@@ -231,6 +231,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [DLSSTweaks](https://www.nexusmods.com/site/mods/550) - Wrapper DLL that can force DLAA onto DLSS-supported titles, along with tweaking scaling ratios & DLSS 3.1 presets.
 - [dlssg-to-fsr3](https://www.nexusmods.com/site/mods/738) - Mod to replace DLSS Frame Generation with FSR3 on NVIDIA RTX 20/30 GPUs.
 - [FSR2-2 to FSR3](https://www.nexusmods.com/site/mods/762) - Mod to enable FSR 3 in [20+ FSR 2.2 games](https://docs.google.com/spreadsheets/d/1bGDjgkRahwNvD2XtqiHdZBRc6VB52UKsr1Qn1TmvSHo).
+- [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling) - Application that uses spatial scaling algorithms, sharpening algorithms, and machine learning to scale windowed games to full screen.
 - [NvTrueHDR](https://www.nexusmods.com/site/mods/781) - Mod to enable RTX HDR in non-HDR games.
 - [OptiScaler](https://www.nexusmods.com/site/mods/986) - Middleware that enables various upscaling technologies in DLSS2-only games.
 
