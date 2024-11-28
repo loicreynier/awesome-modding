@@ -574,13 +574,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [DuelingBookClient](https://github.com/H3xtia/DuelingBookClient) - Dueling Book standalone Chromium application.
 - [DuelingBookEnhanced](https://github.com/alexjraymond/DuelingBookEnhanced) - Chrome extension providing enhancing DB experience with hotkeys, autologin and dark mode.
-- [Dueling Book Dark Material Theme](https://github.com/QuotedTF/duelingbook-dark-minimal) - Dueling Book [Stylebot](https://stylebot.dev) dark material theme.
+- [Dueling Book Dark Theme](https://github.com/mykesXD/Duelingbook-Dark-Mode) - Dueling Book [Stylebot] dark  theme.
+- [Dueling Book Dark Material Theme](https://github.com/QuotedTF/duelingbook-dark-minimal) - Dueling Book [Stylebot] dark material theme.
 - [EDOPro HD Downloader](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) - Tool to download HD card images for EDOPro.
 - [EDOPro Skinpack](https://github.com/Lahrenheit/EDOPRO-Skinpack) - Skin pack for EDOPro.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
 - [Yu-Gi-Oh! Master Duel Assets Modding Guide](https://github.com/SethPDA/MasterDuel-Modding/wiki) - Master Duel modding guide focused on assets and music editing.
 - [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
 - [Floowandereeze and Modding](https://www.nexusmods.com/yugiohmasterduel/mods/372) - Master Duel modding tool to replace any sleeve, card art, icon, home wallppaer and most field assets in the game with any image through a simple UI.
+
+[stylebot]: https://stylebot.dev
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
