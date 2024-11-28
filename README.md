@@ -572,6 +572,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Yu-Gi-Oh! digital games.
 
+- [DBShortcuts](https://github.com/ReinUsesLisp/dbshortcuts) - Firefox/Chrome/Edge extension providing keyboard shortcuts for Dueling Book.
 - [DuelingBookClient](https://github.com/H3xtia/DuelingBookClient) - Dueling Book standalone Chromium application.
 - [DuelingBookEnhanced](https://github.com/alexjraymond/DuelingBookEnhanced) - Chrome extension providing enhancing DB experience with hotkeys, autologin and dark mode.
 - [Dueling Book Dark Theme](https://github.com/mykesXD/Duelingbook-Dark-Mode) - Dueling Book [Stylebot] dark  theme.
