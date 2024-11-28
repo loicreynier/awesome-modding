@@ -572,6 +572,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Yu-Gi-Oh! digital games.
 
+- [DuelingBookClient](https://github.com/H3xtia/DuelingBookClient) - Dueling Book standalone Chromium application.
 - [EDOPro HD Downloader](https://github.com/NiiMiyo/EDOPro-Hd-Downloader) - Tool to download HD card images for EDOPro.
 - [EDOPro Skinpack](https://github.com/Lahrenheit/EDOPRO-Skinpack) - Skin pack for EDOPro.
 - [Yu-Gi-Oh! Master Duel Graphics Modding Guide](https://www.nexusmods.com/yugiohmasterduel/articles/3) - Master Duel modding guide focused on graphics editing.
