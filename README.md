@@ -583,7 +583,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [YgoMaster](https://github.com/pixeltris/YgoMaster) - Master Duel offline mod with PvP LAN support.
 - [Floowandereeze and Modding](https://www.nexusmods.com/yugiohmasterduel/mods/372) - Master Duel modding tool to replace any sleeve, card art, icon, home wallppaer and most field assets in the game with any image through a simple UI.
 
-[Stylebot]: https://stylebot.dev
+[stylebot]: https://stylebot.dev
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
