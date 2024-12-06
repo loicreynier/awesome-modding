@@ -235,6 +235,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Lossless Scaling](https://store.steampowered.com/app/993090/Lossless_Scaling) - Application that uses spatial scaling algorithms, sharpening algorithms, and machine learning to scale windowed games to full screen.
 - [NvTrueHDR](https://www.nexusmods.com/site/mods/781) - Mod to enable RTX HDR in non-HDR games.
 - [OptiScaler](https://www.nexusmods.com/site/mods/986) - Middleware that enables various upscaling technologies in DLSS2-only games.
+- [Up-to-date DLSS FSR3 XeSS Plugins](https://www.nexusmods.com/site/mods/1107?tab=description) - Up-to-date upscaling plugin DLLs to drag and drop in your game's installation folder.
 
 ## Call of Duty Games
 
