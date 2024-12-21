@@ -349,7 +349,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Dynamic Persistent Forms (DPF)](https://www.nexusmods.com/skyrimspecialedition/mods/116001) - SKSE framework plugin to create new forms when the game is already running, also these forms will be persisted both on the save game and on a cache file.
 - [Dynamic String Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/107676) - SKSE framework plugin for dynamic replacement of in-game text/strings.
 - [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728) - SKSE framework plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.
-- [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557)- SKSE framework for attaching real lights to objects and actors, via configurable JSON files.
+- [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557) - SKSE framework for attaching real lights to objects and actors, via configurable JSON files.
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571) - SKSE framework plugin that allows adding tracks to Music Types à la SPID.
 - [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
 - [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) - Advanced Adult Animation Framework.
