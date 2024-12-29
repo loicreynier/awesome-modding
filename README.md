@@ -175,6 +175,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Kezyma's Wabbajack Post-Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/1003) - Small tool to be included in Wabbajack modlists that allows for automation of some post-install steps.
 - [MO2 Splicer](https://www.nexusmods.com/skyrimspecialedition/mods/128227) - Utility to export from one MO2 instance and import them into another one while preserving the mod and plugin order.
 - [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
+- [MO2 Separator Generator](https://www.nexusmods.com/site/mods/1131) - Utility to generate and manage MO2 separators.
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
