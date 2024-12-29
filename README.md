@@ -409,6 +409,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Binary](https://github.com/NFSCO/Binary) - Tool for editing Black Box Need for Speed binary `.BIN`, `.BUN`, `.LZC` files.
 - [ExOpts](https://github.com/orgs/ExOptsTeam/repositories) - Script mods improving game experience of Black Box Need for speed games.
 - [Icebreaker](https://github.com/R-033/icebreaker) - NIS (NFS Most Wanted cutscene files) editing tool.
+- [GAMETEST Mods](https://www.patreon.com/gametestro) - Graphics (non free) mods for NFS games and more.
 - [MAD x VP6 x MPC x MPV x WMV Compiler](https://github.com/bluesky-dev12/MAD-x-VP6-x-MPC-x-MPV-x-WMV-Compiler) - Compilation of tools that let's you compile WMV, MAD, VP6, MPC and MPV for Black Box games.
 - [NFSIISE](https://github.com/zaps166/NFSIISE) - Need for Speed II cross-platform wrapper with 3D acceleration and TCP protocol.
 - [NFS.BIN.Tool](https://github.com/Ekey/NFS.BIN.Tool) - Tool for extracting ZZDATA archives from NFS console games.
