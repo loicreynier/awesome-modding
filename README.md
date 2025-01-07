@@ -222,6 +222,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Universal Substance Painter DDS Exporter](https://www.nexusmods.com/starfield/mods/4891) - Substance Painter export plugin to automate PNG to DNS conversion.
 - [Universal Substance Painter DDS Exporter - Praedy's Fork](https://www.nexusmods.com/site/mods/1044) - Substance Painter export plugin to automate PNG to DDS conversion, with additional features and QOL changes.
+- [Substance Painter DDS Importer](https://github.com/PraedythXIV/Substance-Painter-DDS-Importer) - Substance Painter plugin to import DDS (converts DDS to PNG, extracts alpha channels, and imports them to the shelf under session resources).
 
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
