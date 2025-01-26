@@ -392,6 +392,12 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 
+### Morrowind
+
+> Everything related to Morrowind modding.
+
+- [The Morrowind Modding Wiki](https://morrowind-modding.github.io) - Community wiki featuring guides to create mods for Morrowind.
+
 ### Starfield
 
 > Everything related to Starfield modding.
