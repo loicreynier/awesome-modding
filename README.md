@@ -27,6 +27,7 @@ of one or more aspects of a video game, such as how it looks or behave.
     - [Mesh and Textures Editing](#mesh-and-textures-editing)
     - [Plugin/Module Editing](#pluginmodule-editing)
     - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
+    - [The Elder Scrolls III: Morrowind](#the-elder-scrolls-iii-morrowind)
     - [Starfield](#starfield)
 - [Need for Speed Games](#need-for-speed-games)
 - [Larian Studios Games](#larian-studios-games)
@@ -392,7 +393,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Skyrim AE Downgrade Guide](https://www.nexusmods.com/skyrimspecialedition/mods/106299) - Guide to downgrade Skyrim AE 1.6.1130.0 to 1.6.640.0 using Vortex, DepotDownloader, and Steam.
 - [The Phoenix Flavour](https://thephoenixflavour.com) - Vanilla-plus modding guide for Skyrim SE.
 
-### Morrowind
+### The Elder Scrolls III: Morrowind
 
 > Everything related to Morrowind modding.
 
