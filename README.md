@@ -679,6 +679,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Foundry](https://github.com/ILoveAGoodCrisp/Foundry) - Blender addon supporting asset creation for Halo Reach, Halo 4 and Halo 2 Anniversary Multiplayer.
 - [GECK::Mapper](https://github.com/JanSimek/geck-map-editor) - Fallout 2 map editor.
 - [Halo Asset Blender Development Toolset](https://github.com/General-101/Halo-Asset-Blender-Development-Toolset) - Halo CE/H2/H3/ODST JMS/JMA/ASS file exporter for Blender.
+- [map4FS](https://maps4fs.xyz) - Tool to generate map templates for Farming Simulator from real places.
 - [Metin2 Dev](https://metin2.dev) - Metin2 modding community sharing resources to create private servers.
 - [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
