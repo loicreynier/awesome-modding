@@ -668,8 +668,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 ## Other Games
 
 - [Add-on Box](https://github.com/kinten108101/steam-vpk) - Left for Dead 2 add-on manager for Linux.
-- [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod Manager for Among Us.
+- [Among Us Mod Manager](https://github.com/MatuxGG/ModManager) - Mod manager for Among Us.
 - [awesome-fireemblem-modding](https://github.com/laqieer/awesome-fireemblem-modding) - Curated list of awesome Fire Emblem modding resources.
+- [Balatro Mod Manager](https://dasguney.com/balatro-mod-manager) - Mod manager for Balatro.
 - [Bartłomiej Duda's Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [BS Manager](https://github.com/Zagrios/bs-manager) - Beat Sabers mod manager that also manages game versions.
