@@ -39,6 +39,7 @@ of one or more aspects of a video game, such as how it looks or behave.
     - [Cyberpunk 2077 / REDEngine 4](#cyberpunk-2077--redengine-4)
 - [RAGE Engine / Rockstar Games](#rage-engine--rockstar-games)
 - [Star Wars Games](#star-wars-games)
+- [Age of Empires Games](#age-of-empires-games)
 - [Anno 1800](#anno-1800)
 - [Minecraft](#minecraft)
 - [Infinity Blade](#infinity-blade)
@@ -524,6 +525,17 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
+## Age of Empires Games
+
+> Everything related to Age of Empires (AoE) games modding.
+
+- [Age of Empires II Modding Forum](https://forums.ageofempires.com/c/age-of-empires-ii/age2de-modding/109) - Age of Empires II and II Definitive Edition modding forum (from Age of Empires forums).
+- [Overreign Online](https://www.moddb.com/mods/first-person-mod-overreign/downloads/overreign-de-online) - Age of Empires II DE first person mod.
+
+<div align="right">
+  <a href="#contents">⬆ Back to the Top</a>
+</div>
+
 ## Anno 1800
 
 > Everything related to Anno 1800 modding.
@@ -689,7 +701,6 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [MSFS Mod Manager](https://github.com/NathanVaughn/msfs-mod-manager) - External mod manager for Microsoft Flight Simulator to manage 3rd party addons.
 - [Nitrox](https://nitrox.rux.gg) - Multiplayer mod for Subnautica.
 - [Outer Wilds Mods](https://outerwildsmods.com) - Outer Wilds modding community providing a framework, mods and a mod manager.
-- [Overreign Online](https://www.moddb.com/mods/first-person-mod-overreign/downloads/overreign-de-online) - Age of Empires II Definitive Edition first person mod.
 - [Ready or Not Mod Generator](https://ron.recursiveprojects.cloud) - Tool to generate Ready or Not AI mods (customize the number, skill level, and behavior of suspects in the game).
 - [RenoDX](https://github.com/clshortfuse/renodx) - Renovation Engine for DirectX Games that uses the ReShade addon system to add/replace shaders, HDR, textures and more.
 - [Rock Raiders United](https://rockraidersunited.com) - LEGO games modding community.
