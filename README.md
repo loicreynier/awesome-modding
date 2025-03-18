@@ -529,7 +529,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to Age of Empires (AoE) games modding.
 
-- [Age of Empires II Modding Forum](https://forums.ageofempires.com/c/age-of-empires-ii/age2de-modding/109) - Age of Empires II and II Definitive Edition modding forum (from Age of Empires forums).
+- [Age of Empires II Modding Forum](https://forums.ageofempires.com/c/age-of-empires-ii/age2de-modding/109) - Age of Empires II and II DE modding forum (from Age of Empires forums).
+- [AoE2 Color Modding Tool](https://github.com/TheWaveWarden/aoe2-color-tool) - Tool to modify player colors in Age of Empires II DE.
 - [Overreign Online](https://www.moddb.com/mods/first-person-mod-overreign/downloads/overreign-de-online) - Age of Empires II DE first person mod.
 
 <div align="right">
