@@ -360,6 +360,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Dynamic String Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/107676) - SKSE framework plugin for dynamic replacement of in-game text/strings.
 - [Keyword Item Distributor (KID)](https://www.nexusmods.com/skyrimspecialedition/mods/55728) - SKSE framework plugin that distributes keywords to weapons/armor/magic effects/ingestibles and other items, using config files.
 - [Light Placer](https://www.nexusmods.com/skyrimspecialedition/mods/127557) - SKSE framework for attaching real lights to objects and actors, via configurable JSON files.
+- [Model Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805) - SKSE framework plugin for swapping world object models, using config files.
 - [Mu Impact Framework (MIF)](https://www.nexusmods.com/skyrimspecialedition/mods/95624) - SKSE framework for adding VFX on attack, via configurable INI files.
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571) - SKSE framework plugin that allows adding tracks to Music Types à la SPID.
 - [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
