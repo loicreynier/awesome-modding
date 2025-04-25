@@ -28,7 +28,7 @@ of one or more aspects of a video game, such as how it looks or behave.
     - [Plugin/Module Editing](#pluginmodule-editing)
     - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
     - [The Elder Scrolls III: Morrowind](#the-elder-scrolls-iii-morrowind)
-    - [The Elder Scrolls IV: Oblivion Remastered](#the-eleder-scrolls-iv-oblivion-remastered)
+    - [The Elder Scrolls IV: Oblivion Remastered](#the-elder-scrolls-iv-oblivion-remastered)
     - [Starfield](#starfield)
 - [Need for Speed Games](#need-for-speed-games)
 - [Larian Studios Games](#larian-studios-games)
