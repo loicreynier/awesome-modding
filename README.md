@@ -28,6 +28,7 @@ of one or more aspects of a video game, such as how it looks or behave.
     - [Plugin/Module Editing](#pluginmodule-editing)
     - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
     - [The Elder Scrolls III: Morrowind](#the-elder-scrolls-iii-morrowind)
+    - [The Elder Scrolls IV: Oblivion Remastered](#the-eleder-scrolls-iv-oblivion-remastered)
     - [Starfield](#starfield)
 - [Need for Speed Games](#need-for-speed-games)
 - [Larian Studios Games](#larian-studios-games)
@@ -410,6 +411,13 @@ of one or more aspects of a video game, such as how it looks or behave.
 > Everything related to Morrowind modding.
 
 - [The Morrowind Modding Wiki](https://morrowind-modding.github.io) - Community wiki featuring guides to create mods for Morrowind.
+
+### The Elder Scrolls IV: Oblivion Remastered
+
+> Everything related to Oblivion Remastered modding.
+
+- [Oblivion Remastered Script Extender (OBSE64)](https://www.nexusmods.com/oblivionremastered/mods/282) - Modder's resource that expands the modding capabilities of Oblivion Remastered.
+- [Simple Oblivion Remastered Plugin Manager](https://www.nexusmods.com/oblivionremastered/mods/206) - Minimal plugin manager for Oblivion Remastered.
 
 ### Starfield
 
