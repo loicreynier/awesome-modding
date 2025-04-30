@@ -170,7 +170,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Plugin adding MO2 support for games.
 
-- [Baldur's Gate 3](https://www.nexusmods.com/site/mods/807)
+- [Baldur's Gate 3](https://www.nexusmods.com/site/mods/1268)
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
 - [Undertale](https://www.nexusmods.com/site/mods/732)
 - [Pizza Tower](https://www.nexusmods.com/site/mods/683)
