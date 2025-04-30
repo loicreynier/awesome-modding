@@ -173,6 +173,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Baldur's Gate 3](https://www.nexusmods.com/site/mods/1268)
 - [DELTARUNE](https://www.nexusmods.com/site/mods/733)
 - [Undertale](https://www.nexusmods.com/site/mods/732)
+- [Oblivion Remastered](https://www.nexusmods.com/site/mods/1286)
 - [Pizza Tower](https://www.nexusmods.com/site/mods/683)
 
 #### Non-plugin Utilities
