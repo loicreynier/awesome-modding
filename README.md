@@ -95,6 +95,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Fluffy Mod Manager](https://www.nexusmods.com/site/mods/818) - Mod manager for various RE engine (Resident Evil, Dragon's Dogma, Uncharted 4, etc) games.
 - [Frosty Mod Manager](https://github.com/CadeEvs/FrostyToolsuite) - Mod manager for Frostbite engine games.
 - [Kortex Mod Manager](https://github.com/Karandra/Kortex-Mod-Manager) - Virtualized mod management tool for Bethesda games.
+- [Limo](https://github.com/limo-app/limo) - General purpose mod manager primarily developed for Linux with support for the Nexu sMods API and LOOT.
 - [Mod Organizer 2](http://www.nexusmods.com/skyrimspecialedition/mods/6194) - Virtualized mod management tool for Bethesda and other various PC games.
 - [Mod Organizer 2 - ModdingLinked Edition](https://www.nexusmods.com/site/mods/874) - Fork (third party) of Mod Organizer 2 bringing a series of improvements and preventing common annoyances.
 - [Mod Organizer 2 - Senjay Edition](https://www.nexusmods.com/site/mods/1050) - Fork (third party) of Mod Organizer 2 bringing a series of improvements mainly tailored for Fallout New Vegas.
