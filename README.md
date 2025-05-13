@@ -11,46 +11,61 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ## Contents
 
-- [Modding Communities](#modding-communities)
-- [Hosting & Browsing Sites](#hosting--browsing-sites) 
-- [Mod Managers](#mod-managers)
-    - [Mod Organizer 2 Plugins & Tools](#mod-organizer-2-plugins--tools)
-- [Modding Utilities](#modding-utilities)
-- [Post-processing & Shaders](#post-processing--shaders)
-- [Texture Editing](#texture-editing)
-- [Upscaling & Image Enhancement](#upscaling--image-enhancement)
-- [Call of Duty Games](#call-of-duty-games)
-- [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
+- [Awesome Modding ](#awesome-modding-)
+  - [Contents](#contents)
+  - [Modding Communities](#modding-communities)
+  - [Hosting \& Browsing Sites](#hosting--browsing-sites)
+  - [Mod Managers](#mod-managers)
+    - [Mod Organizer 2 Plugins \& Tools](#mod-organizer-2-plugins--tools)
+      - [Documentation](#documentation)
+      - [General Plugins](#general-plugins)
+      - [Game-specific Plugins](#game-specific-plugins)
+        - [TES Skyrim](#tes-skyrim)
+        - [TES Morrowind](#tes-morrowind)
+      - [Game Extensions](#game-extensions)
+      - [Non-plugin Utilities](#non-plugin-utilities)
+  - [Modding Utilities](#modding-utilities)
+  - [Post-processing \& Shaders](#post-processing--shaders)
+  - [Texture Editing](#texture-editing)
+  - [Upscaling \& Image Enhancement](#upscaling--image-enhancement)
+  - [Call of Duty Games](#call-of-duty-games)
+  - [Creation Engine / Bethesda Games](#creation-engine--bethesda-games)
     - [Creation Kit](#creation-kit)
     - [Game Configuration](#game-configuration)
     - [Load Order](#load-order)
     - [Mesh and Textures Editing](#mesh-and-textures-editing)
     - [Plugin/Module Editing](#pluginmodule-editing)
     - [The Elder Scrolls V: Skyrim](#the-elder-scrolls-v-skyrim)
+      - [Mod Hosting \& Communities](#mod-hosting--communities)
+      - [Modding Projects (DLC size)](#modding-projects-dlc-size)
+      - [Mod Managers](#mod-managers-1)
+      - [Notable Frameworks](#notable-frameworks)
+      - [Modding Utilities](#modding-utilities-1)
+      - [Modding Guides \& Documentation](#modding-guides--documentation)
     - [The Elder Scrolls III: Morrowind](#the-elder-scrolls-iii-morrowind)
     - [The Elder Scrolls IV: Oblivion Remastered](#the-elder-scrolls-iv-oblivion-remastered)
     - [Starfield](#starfield)
-- [Need for Speed Games](#need-for-speed-games)
-- [Larian Studios Games](#larian-studios-games)
+  - [Need for Speed Games](#need-for-speed-games)
+  - [Larian Studios Games](#larian-studios-games)
     - [File Manipulation Tools](#file-manipulation-tools)
     - [Baldur's Gate 3](#baldurs-gate-3)
     - [Divinity: Original Sin 2](#divinity-original-sin-2)
-- [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
+  - [REDEngine Games (CD Projekt)](#redengine-games-cd-projekt)
     - [The Witcher 3 / REDEngine 3](#the-witcher-3--redengine-3)
     - [Cyberpunk 2077 / REDEngine 4](#cyberpunk-2077--redengine-4)
-- [RAGE Engine / Rockstar Games](#rage-engine--rockstar-games)
-- [Star Wars Games](#star-wars-games)
-- [Age of Empires Games](#age-of-empires-games)
-- [Anno 1800](#anno-1800)
-- [Minecraft](#minecraft)
-- [Infinity Blade](#infinity-blade)
-- [Sonic Games](#sonic-games)
-- [Yu-Gi-Oh! Games](#yu-gi-oh-games)
-- [Unity](#unity)
-- [Unreal Engine 4](#unreal-engine-4)
-- [Unreal Engine 3](#unreal-engine-3)
-- [PS2 Games](#ps2-games)
-- [Other Games](#other-games)
+  - [RAGE Engine / Rockstar Games](#rage-engine--rockstar-games)
+  - [Star Wars Games](#star-wars-games)
+  - [Age of Empires Games](#age-of-empires-games)
+  - [Anno 1800](#anno-1800)
+  - [Minecraft](#minecraft)
+  - [Infinity Blade](#infinity-blade)
+  - [Sonic Games](#sonic-games)
+  - [Yu-Gi-Oh! Games](#yu-gi-oh-games)
+  - [Unity](#unity)
+  - [Unreal Engine 4](#unreal-engine-4)
+  - [Unreal Engine 3](#unreal-engine-3)
+  - [PS2 Games](#ps2-games)
+  - [Other Games](#other-games)
 
 ## Modding Communities
 
@@ -112,7 +127,7 @@ of one or more aspects of a video game, such as how it looks or behave.
   <a href="#contents">⬆ Back to the Top</a>
 </div>
 
-### Mod Organizer 2 Plugins & Tools 
+### Mod Organizer 2 Plugins & Tools
 
 > A curated list of [Mod Organizer 2](https://www.modorganizer.org) plugins and related tools.
 
@@ -126,7 +141,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Plugins for general use of MO2 or not related to a specific game.
 
-- [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`). 
+- [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`).
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
 - [Download Manager](https://github.com/aglowinthefield/mo2-download-manager) - Plugin adding features to manage downloads such as batch manipulations.
@@ -286,7 +301,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) - GUI INI files editor with optimized presets.
 - [Bethini Pie](https://www.nexusmods.com/site/mods/631) - Universal tool to make editing INI configuration files simple via a GUI, providing presets for Fallout 4 and Starfield.
 
-### Load Order 
+### Load Order
 
 > Load order manipulation tools.
 
@@ -374,7 +389,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) - SKSE framework plugin allows mod authors and users to modify game data without the use of plugins.
 - [Skyrim Script Extender (SKSE)](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
 - [Spell Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869) - SKSE framework plugin that can be used to add spells/perks/items/shouts/packages/outfits/keywords/factions to every NPC in the game, using config files.
-- [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815) - SKSE framework plugin which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches. 
+- [Sound Record Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/77815) - SKSE framework plugin which allows sounds to be distributed at runtime, greatly simplifying audio mods and patches.
 
 #### Modding Utilities
 
@@ -667,7 +682,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Stove](https://github.com/bananaturtlesandwich/stove) - Editor for cooked Unreal Engine 4 maps.
 - [Unreal Engine Marketplace](https://www.unrealengine.com/marketplace) - Official Unreal Engine assets marketplace.
 - [Unreal Engine Mod Loader](https://github.com/RussellJerome/UnrealModLoader) - Tool used to load Blueprint and basic SDK based C++ mods for Unreal Engine 4 games.
-- [Unreal ImGui](https://github.com/segross/UnrealImGui) - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) framework into Unreal Engine 4. 
+- [Unreal ImGui](https://github.com/segross/UnrealImGui) - Unreal plugin that integrates [Dear ImGui](https://github.com/ocornut/imgui) framework into Unreal Engine 4.
 - [UE Viewer](https://github.com/gildor2/UEViewer) - Viewer and exporter for Unreal Engine 1–4 assets.
 
 <div align="right">
@@ -704,7 +719,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Bartłomiej Duda's Tools](https://github.com/bartlomiejduda/Tools) - Set of tools to manage and modify files from many various games.
 - [Bombsquad Plugin Manager](https://github.com/bombsquad-community/plugin-manager) - Plugin Manager for Bombsquad 1.7+.
 - [BS Manager](https://github.com/Zagrios/bs-manager) - Beat Sabers mod manager that also manages game versions.
-- [Burnout Modding Wiki](https://burnout.wiki/wiki/Modding) - List of tools, tutorials and resource for modding Burnout 3, Legends, Revenge, and Dominator. 
+- [Burnout Modding Wiki](https://burnout.wiki/wiki/Modding) - List of tools, tutorials and resource for modding Burnout 3, Legends, Revenge, and Dominator.
 - [Carbon](https://carbonmod.gg) - Modding framework and mods for Rust servers.
 - [ESO Addon Manager](https://github.com/Trojan295/eso-addons) - Command line cross-platform mod manager for The Elder Scrolls Online with ESOUI integration.
 - [ESOUI](https://www.esoui.com) - The Elder Scrolls Online mods community.
