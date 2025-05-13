@@ -485,6 +485,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
 - [Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944) - Native DLL plugin loader for Baldur's Gate 3.
 - [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se#norbytes-baldurs-gate-3-script-extender) - Baldur's Gate 3 Script Extender.
+- [TMLGen](https://www.nexusmods.com/baldursgate3/mods/15435) - Tool to generate TML file from BG3 cutscene, allowing the cinematic to be easily edited in an unlocked version of the toolkit (such as MoonGlasses).
 
 ### Divinity: Original Sin 2
 
