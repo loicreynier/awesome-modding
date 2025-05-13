@@ -129,6 +129,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`). 
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
+- [DDS Preview Plus](https://www.nexusmods.com/skyrimspecialedition/mods/149747) - Plugin to add zooming and panning to the DDS preview.
 - [Download Manager](https://github.com/aglowinthefield/mo2-download-manager) - Plugin adding features to manage downloads such as batch manipulations.
 - [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/126298) - Plugin to ESLify (convert to ESL) Bethesda games plugins.
 - [FOMOD Plus](https://www.nexusmods.com/skyrimspecialedition/mods/141001) - Plugin to enhance the FOMOD experience: show previous choices, filter FOMOD-installed mods, smart-resizing installer windows and more.
