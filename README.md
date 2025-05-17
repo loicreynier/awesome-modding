@@ -142,6 +142,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`).
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
+- [DDS Preview Plus](https://www.nexusmods.com/skyrimspecialedition/mods/149747) - Plugin to add zooming and panning to the DDS preview.
 - [Download Manager](https://github.com/aglowinthefield/mo2-download-manager) - Plugin adding features to manage downloads such as batch manipulations.
 - [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/126298) - Plugin to ESLify (convert to ESL) Bethesda games plugins.
 - [FOMOD Plus](https://www.nexusmods.com/skyrimspecialedition/mods/141001) - Plugin to enhance the FOMOD experience: show previous choices, filter FOMOD-installed mods, smart-resizing installer windows and more.
@@ -494,9 +495,11 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [BG3WASD](https://github.com/Ch4nKyy/BG3WASD) - WASD Character Movement Mod for Baldur's Gate 3.
 - [LaughingLeader's Baldur's Gate 3 Mod Manager](https://github.com/LaughingLeader/BG3ModManager) - Mod manager for Baldur's Gate 3.
 - [Mod Configuration Menu](https://www.nexusmods.com/baldursgate3/mods/9162) - BG3 in-game graphical interface that allows players to intuitively manage mod settings and custom mod widgets.
+- [MoonGlasses](https://www.nexusmods.com/baldursgate3/mods/12308) - Toolkit extension that allows for level creation, dialogue editing, cinematic timelines editing and creating new combat encounters.
 - [Native Camera Tweaks](https://www.nexusmods.com/baldursgate3/mods/945) - Baldur's Gate 3 native open source plugin providing several camera tweaks without separate executables (unlocked camera pitch, zoom, controller stick deadzone).
 - [Native Mod Loader](https://www.nexusmods.com/baldursgate3/mods/944) - Native DLL plugin loader for Baldur's Gate 3.
 - [Norbyte's Baldur's Gate 3 Script Extender](https://github.com/Norbyte/bg3se#norbytes-baldurs-gate-3-script-extender) - Baldur's Gate 3 Script Extender.
+- [TMLGen](https://www.nexusmods.com/baldursgate3/mods/15435) - Tool to generate TML file from BG3 cutscene, allowing the cinematic to be easily edited in an unlocked version of the toolkit (such as MoonGlasses).
 
 ### Divinity: Original Sin 2
 
