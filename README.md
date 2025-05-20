@@ -402,6 +402,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Modding Guides & Documentation
 
+- [A Dragonborn's Fate](https://dragonbornsfate.moddinglinked.com) - Manual MO2-based modding guide for Skyrim SE.
 - [Animonculory Modding Resources](https://github.com/The-Animonculory/Modding-Resources) - Modding guides written for Animonculory modlists and useful for general use.
 - [Guide to Skyrim Particle Systems and ENB Complex Lights](https://www.nexusmods.com/skyrimspecialedition/articles/1391) - Modding guide for Skyrim particle systems.
 - [Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/Main.md) - Collection of various modding lessons, mostly revolving around how to read, use, and edit with xEdit.
