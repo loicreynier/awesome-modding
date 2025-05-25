@@ -260,6 +260,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Bot Warfare](https://www.moddb.com/mods/bot-warfare) - Mod to add bots to matches for CoD4, WaW, MW2, MW3 and BO1.
 - [GSC](https://github.com/xensik/gsc-tool) - Utility to compile & decompile IW engine game (Call of Duty) scripts.
 - [H2 Multiplayer Mod](https://x.com/H2Multiplayer) - MW2 multiplayer remake in Modern Warfare Remastered (shutdown).
+- [Horizon MW](https://hmw-mod.com) - MW2 & MW3 multiplayer remake in Modern Warfare Remastered (successor of H2 Multiplayer Mod).
 - [IW4M-Admin](https://github.com/RaidMax/IW4M-Admin) - Complete administration tool for Pluto T6, Pluto IW5, Pluto T5, Pluto T4, H1-Mod, TeknoMW3, and most Call of Duty dedicated servers.
 - [Plutonium](https://plutonium.pw) - Modding platform for BO1, BO2, WaW and MW3 providing 1000+ modded servers.
 - [TeknoGods](https://teknogods.com) - Modding platform providing a client for MW3 with dedicated modded servers.
