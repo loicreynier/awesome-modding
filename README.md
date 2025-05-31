@@ -131,15 +131,16 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [DDS Preview Plus](https://www.nexusmods.com/skyrimspecialedition/mods/149747) - Plugin to add zooming and panning to the DDS preview.
 - [Download Manager](https://github.com/aglowinthefield/mo2-download-manager) - Plugin adding features to manage downloads such as batch manipulations.
 - [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/126298) - Plugin to ESLify (convert to ESL) Bethesda games plugins.
+- [Fix Game Registry](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
+- [Filetree Auto-Expand](https://www.nexusmods.com/site/mods/1317) - Automatically expands the filetree in the "filetree tab" and "manual install" windows.
 - [FOMOD Plus](https://www.nexusmods.com/skyrimspecialedition/mods/141001) - Plugin to enhance the FOMOD experience: show previous choices, filter FOMOD-installed mods, smart-resizing installer windows and more.
-- [Fix Game Registry Plugin](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
 - [FOMOD Version Fixer](https://www.nexusmods.com/skyrimspecialedition/mods/121236) - Plugin that fixes mod versions by fetching Nexus metadata when installing FOMODs.
 - [Hidden Files Speedup](https://www.nexusmods.com/skyrimspecialedition/mods/118701) - Mod to speed up game runtime by ignoring `.mohidden` files and `.git` directories in the virtual file system.
 - [Install Multiple Mods](https://www.nexusmods.com/site/mods/798) - Plugin adding a button to select and install multiple mod archives.
 - [Lazy Modlist Extractor](https://www.nexusmods.com/skyrimspecialedition/mods/105126) - Plugin to export modlist as a CSV with relevant information like links to the source download and plugin load order.
 - [LostDragonist MO2 Plugins](https://www.nexusmods.com/site/mods/82) - Utility plugins collection (conflict deleter, dump mappings, game redirector and more).
 - [Mod Auto-Installer](https://www.nexusmods.com/site/mods/799) - Plugin to auto-install mods after download.
-- [NIF Preview Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/137741) - Plugin for previewing 3D model NIF files.
+- [NIF Preview](https://www.nexusmods.com/skyrimspecialedition/mods/137741) - Plugin for previewing 3D model NIF files.
 - [PageFile Manager](https://www.nexusmods.com/skyrimspecialedition/mods/128254 ) - Plugin that automatically create or increase page file if there is insufficient memory.
 - [Plugin Finder](https://kezyma.github.io/?p=pluginfinder) - Plugin to browse and install other Mod Organizer plugins.
 - [Plugin Limit Checker](https://www.nexusmods.com/site/mods/789) - Plugin to check if you have too many non-light plugins loaded for Bethesda games.
