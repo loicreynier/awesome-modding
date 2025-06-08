@@ -380,6 +380,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 #### Modding Utilities
 
+- [blender-hkx](https://github.com/jgernandt/blender-hkx) - Blender 3.2 addon to import/export Skyrim animations (HKX files).
 - [BOS INI Writer](https://www.nexusmods.com/skyrimspecialedition/mods/95679) - INI Writer Extension providing a GUI for editing BOS files.
 - [CIDER](https://www.nexusmods.com/skyrimspecialedition/mods/101028) - Program designed to centralize, check, sort and manage all the contents related to Container Item Distributor.
 - [Completionist Auto UI Patcher](https://github.com/Faen668/Completionist-Auto-UI-Patcher-GUI) - Automated SWF patcher for the Completionist UI.
