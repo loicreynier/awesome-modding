@@ -310,6 +310,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [hkxc](https://www.nexusmods.com/skyrimspecialedition/mods/126214) - CLI too to convert between x86/x64 HKX and XML animation files.
 - [HKX Conversion Tool](https://www.nexusmods.com/skyrimspecialedition/mods/128839) - `hkxc` Windows GUI for converting between HKX and XML animations files.
 - [hkxPoser](https://www.nexusmods.com/skyrimspecialedition/mods/11783) - `.hkx` animation file editor.
+- [PyNifly](https://github.com/BadDogSkyrim/PyNifly) - Blender addon to import/export NIF files with support for Skyrim LE, Skyrim SE, Fallout 4, Fallout New Vegas, Fallout 76, and Fallout 3. 
 
 ### Plugin/Module Editing
 
