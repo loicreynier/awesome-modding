@@ -195,7 +195,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 ### Vortex Plugins & Tools
 
-> A curated list of [Vortex](https://www.nexusmods.com/about/vortex) plugins and related tools.
+> A curated list of Vortex plugins and related tools.
 
 #### Non-plugin Utilities
 
