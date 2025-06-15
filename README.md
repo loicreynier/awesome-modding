@@ -15,6 +15,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Hosting & Browsing Sites](#hosting--browsing-sites) 
 - [Mod Managers](#mod-managers)
     - [Mod Organizer 2 Plugins & Tools](#mod-organizer-2-plugins--tools)
+    - [Vortex Plugins & Tools](#vortex-plugins--tools)
 - [Modding Utilities](#modding-utilities)
 - [Post-processing & Shaders](#post-processing--shaders)
 - [Texture Editing](#texture-editing)
@@ -191,6 +192,14 @@ of one or more aspects of a video game, such as how it looks or behave.
 <div align="right">
   <a href="#contents">⬆ Back to the Top</a>
 </div>
+
+### Vortex Plugins & Tools
+
+> A curated list of [Vortex](https://www.nexusmods.com/about/vortex) plugins and related tools.
+
+#### Non-plugin Utilities
+
+- [Vortex Modlist Converter](https://www.nexusmods.com/skyrimspecialedition/mods/152308) - Tool to export Vortex backup JSON files to a readable text format.
 
 ## Modding Utilities
 
