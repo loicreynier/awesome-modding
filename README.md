@@ -382,6 +382,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Music Type Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/119571) - SKSE framework plugin that allows adding tracks to Music Types à la SPID.
 - [Open Animation Replacer (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/92109) - SKSE framework plugin that replaces animations depending on configurable conditions, backward compatible with Dynamic Animation Replacer.
 - [OStim Standalone](https://www.nexusmods.com/skyrimspecialedition/mods/98163) - Advanced Adult Animation Framework.
+- [SKSE Menu Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120352) - SKSE framework plugin that add new menu so that other mods can register their own ImGUI graphical interfaces from simple INI files.
 - [Seasons of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/62861) - SKSE framework plugin with model/terrain/LOD swap support and dynamic snow coverage.
 - [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659) - SKSE framework plugin allows mod authors and users to modify game data without the use of plugins.
 - [Skyrim Script Extender (SKSE)](http://skse.silverlock.org) - Tool used by many mods that expands scripting capabilities and adds additional functionality to the game.
