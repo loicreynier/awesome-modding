@@ -185,6 +185,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [Kezyma's Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/599) - Setup tool for Mod Organizer, with options to install additional plugins, configure the instance and to support creating Wabbajack modlists.
 - [Kezyma's Wabbajack Post-Setup Tool for Mod Organizer 2](https://www.nexusmods.com/site/mods/1003) - Small tool to be included in Wabbajack modlists that allows for automation of some post-install steps.
+- [MO2 Archive Cleaner](https://www.nexusmods.com/skyrimspecialedition/mods/155535) - Tool to automatically detects and removes redundant mod archives (downloads).
 - [MO2 Conflict Manager](https://www.nexusmods.com/skyrimspecialedition/mods/155040) - Tool to manage and move overwritten conflict files out of the modlist for optimized modded setups.
 - [MO2 Splicer](https://www.nexusmods.com/skyrimspecialedition/mods/128227) - Utility to export from one MO2 instance and import them into another one while preserving the mod and plugin order.
 - [Remove all ignore update flags script](https://www.nexusmods.com/site/mods/792) - Script to remove the ignore update from all the mods.
