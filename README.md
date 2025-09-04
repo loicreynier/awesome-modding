@@ -132,8 +132,9 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [DDS Preview Plus](https://www.nexusmods.com/skyrimspecialedition/mods/149747) - Plugin to add zooming and panning to the DDS preview.
 - [Download Manager](https://github.com/aglowinthefield/mo2-download-manager) - Plugin adding features to manage downloads such as batch manipulations.
 - [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/126298) - Plugin to ESLify (convert to ESL) Bethesda games plugins.
-- [Fix Game Registry](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
+- [File Statistics](https://www.nexusmods.com/skyrimspecialedition/mods/157776) - Plugin that scans your installed mods and shows you how your disk space is being used.
 - [Filetree Auto-Expand](https://www.nexusmods.com/site/mods/1317) - Automatically expands the filetree in the "filetree tab" and "manual install" windows.
+- [Fix Game Registry](https://www.nexusmods.com/site/mods/716) - Plugin fixing broken or missing registry entries with Bethesda games.
 - [FOMOD Plus](https://www.nexusmods.com/skyrimspecialedition/mods/141001) - Plugin to enhance the FOMOD experience: show previous choices, filter FOMOD-installed mods, smart-resizing installer windows and more.
 - [FOMOD Version Fixer](https://www.nexusmods.com/skyrimspecialedition/mods/121236) - Plugin that fixes mod versions by fetching Nexus metadata when installing FOMODs.
 - [Hidden Files Speedup](https://www.nexusmods.com/skyrimspecialedition/mods/118701) - Mod to speed up game runtime by ignoring `.mohidden` files and `.git` directories in the virtual file system.
