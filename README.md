@@ -412,6 +412,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133232) - Behaviour engine tool for patching Skyrim Nemesis/FNIS animation behaviour mods, with full creature support.
 - [ParallaxR](https://www.nexusmods.com/skyrimspecialedition/mods/124711) - Tool to generate parallax height maps meant to be used with Parallax Gen.
 - [Parallax Gen](https://github.com/hakasapl/ParallaxGen) - NIF dynamic patcher to enable parallax on your entire load order.
+- [PriOARity](https://www.nexusmods.com/skyrimspecialedition/mods/158250) - Tool to automatically renumbers animation priorities across multiple mods according to your load order.
 - [SPIDER](https://www.nexusmods.com/skyrimspecialedition/mods/98177) - Program designed to centralize, check, sort and manage all the contents related to SPID.
 - [SMP Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/110840) - Automated tool to optimize SMP XML files (per vertex basis collision instead of triangles).
 - [SSE Lang Detector](https://www.nexusmods.com/skyrimspecialedition/mods/106185) - AI-based automatic tool to find untranslated mods.
