@@ -126,7 +126,8 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Plugins for general use of MO2 or not related to a specific game.
 
-- [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`). 
+- [Audio Player](https://www.nexusmods.com/skyrimspecialedition/mods/101872) - Plugin to play (preview) audio files (`.fuz`, `.wav` and `.xwm`).
+- [Automatic Tool Plugin Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/158346) - Plugin to define rules for automatically disabling plugins before running executables.
 - [Bethesda Plugin Manager](https://www.nexusmods.com/skyrimspecialedition/mods/111236) - Bethesda Games Plugins panel overhaul with new functionality and tweaked visuals.
 - [Broom](https://www.nexusmods.com/skyrimspecialedition/mods/52097) - Plugin to hide or delete files from mods based on a configuration kept in your modlist.
 - [DDS Preview Plus](https://www.nexusmods.com/skyrimspecialedition/mods/149747) - Plugin to add zooming and panning to the DDS preview.
