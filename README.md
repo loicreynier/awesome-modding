@@ -211,6 +211,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 - [FOMOD Builder](https://fomod.bellcube.dev) - Web-based tool for building FOMOD installers.
 - [FOMOD Creation Tool](https://www.nexusmods.com/fallout4/mods/6821) - Graphical utility to create XML files for FOMOD installers.
+- [FOMOD Creation Kit](https://github.com/Cutleast/FOMOD-Creation-Kit) - Advanced GUI to create FOMOD installers with automatic file management.
 - [FOMOD Validator](https://github.com/GandaG/fomod-validator) - FOMOD installer XML file validator/linter.
 - [FOMOD Validator CLI](https://github.com/loicreynier/fomod-validator-cli) - CLI interface for FOMOD Validtor.
 - [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
