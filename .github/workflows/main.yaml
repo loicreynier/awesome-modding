@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v5
         with:
           fetch-depth: 0
-      - run: npx awesome-lint
+      - run: npx awesome-lint@1.2.0
   typos:
     name: Typos checker
     runs-on: ubuntu-latest
