@@ -214,7 +214,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 - [FOMOD Creation Tool](https://www.nexusmods.com/fallout4/mods/6821) - Graphical utility to create XML files for FOMOD installers.
 - [FOMOD Creation Kit](https://github.com/Cutleast/FOMOD-Creation-Kit) - Advanced GUI to create FOMOD installers with automatic file management.
 - [FOMOD Validator](https://github.com/GandaG/fomod-validator) - FOMOD installer XML file validator/linter.
-- [FOMOD Validator CLI](https://github.com/loicreynier/fomod-validator-cli) - CLI interface for FOMOD Validtor.
+- [FOMOD Validator CLI](https://github.com/loicreynier/fomod-validator-cli) - CLI interface for FOMOD Validator.
 - [INI Writer](https://arcturusforge.itch.io/ini-writer) - File editor with a From Editor that brings the complexity of writing `.ini` files away from the user.
 - [pyfomod](https://github.com/GandaG/pyfomod) - High-level FOMOD library written in Python.
 - [SpecialK](https://github.com/SpecialKO/SpecialK) - Swiss Army Knife of PC gaming with features such as HDR injection, textures modding, DLL loading such as ReShade and more.
@@ -634,7 +634,7 @@ of one or more aspects of a video game, such as how it looks or behave.
 
 > Everything related to modding Sonic games.
 
-- [BetterSADX](https://github.com/Carlmundo/BetterSADX) - Mod pack (better graphics, full controller suppoter, etc) for Steam port of Sonic Adventure Director Cut.
+- [BetterSADX](https://github.com/Carlmundo/BetterSADX) - Mod pack (better graphics, full controller supporter, etc) for Steam port of Sonic Adventure Director Cut.
 - [HedgeLib](https://github.com/Radfordhound/HedgeLib) - C++ library and collection of tools that aims to make modding games in the Sonic the Hedgehog franchise easier.
 - [Hedge Mod Manager](https://github.com/thesupersonic16/HedgeModManager) - Mod manager for Hedgehog Engine games (Sonic Generations, Sonic Lost World, Sonic Frontiers).
 - [Marathon](https://github.com/hyperbx/Marathon) - Toolkit and library for Sonic The Hedghehog file formats.
